@@ -8,6 +8,8 @@ requests>=2.31
 beautifulsoup4>=4.12
 lxml>=5.0
 feedparser>=6.0
+python-dotenv>=1.0
+faostat>=1.1
 
 # Mining / modelling
 statsmodels>=0.14
@@ -20,4 +22,4 @@ plotly>=5.24
 streamlit>=1.45
 
 # Notebook (opsionál)
-jupyter>=1.0
+
