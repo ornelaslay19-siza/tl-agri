@@ -5,12 +5,11 @@ __pycache__/
 venv/
 .DS_Store
 
-# File dadus BOOT (> 10 MB) - la commit; jera fali ho `python -m src.pipeline`
+# File dadus BOOT (> 10 MB)
 data/raw/weather_open-meteo/
 data/raw/weather_nasa/
 data/raw/weather_daily.csv
 data/processed/weather_daily_clean.csv
-# data/processed/*.csv (seluk) no data/outputs/ KOMMIT tanba Streamlit Cloud presiza
 data/outputs/rf_rain_lag_model.joblib
 
 # Segredu (password FAOSTAT) - LA BELE commit
