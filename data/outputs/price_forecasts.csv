@@ -1,0 +1,1849 @@
+series,location,model,date,forecast,lower_95,upper_95,best_model
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,2.694,1.976,3.674,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,2.68,1.875,3.829,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,2.676,1.746,4.1,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,2.638,1.64,4.244,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,2.417,1.432,4.082,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,2.685,1.524,4.73,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,2.673,1.457,4.904,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,2.61,1.37,4.97,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,2.555,1.295,5.042,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,2.541,1.245,5.187,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,2.794,1.326,5.89,False
+Beans (kidney) (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,2.488,1.144,5.408,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,2.728,2.0,3.72,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,2.664,1.864,3.806,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,2.574,1.679,3.944,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,2.807,1.745,4.515,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,3.336,1.976,5.633,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,2.877,1.633,5.069,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,2.986,1.628,5.478,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,3.089,1.622,5.884,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,2.972,1.506,5.864,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,2.87,1.406,5.857,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,2.586,1.227,5.451,False
+Beans (kidney) (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,2.929,1.347,6.368,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,3.41,2.07,5.618,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,3.227,1.797,5.796,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,3.142,1.563,6.318,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,3.613,1.653,7.898,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,3.549,1.499,8.406,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,3.907,1.536,9.94,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,3.469,1.275,9.439,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,3.609,1.246,10.453,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,3.882,1.263,11.931,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,4.161,1.28,13.53,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,3.788,1.104,12.996,False
+Chili (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,3.78,1.046,13.654,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,4.007,2.432,6.6,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,4.41,2.455,7.919,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,4.068,2.023,8.179,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,3.934,1.8,8.6,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,4.441,1.875,10.518,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,3.948,1.552,10.046,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,4.909,1.804,13.356,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,4.577,1.58,13.259,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,4.149,1.35,12.754,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,3.869,1.19,12.581,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,4.3,1.253,14.754,False
+Chili (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,4.088,1.132,14.767,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2026-10-01,0.197,0.172,0.224,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2026-11-01,0.197,0.165,0.236,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2026-12-01,0.199,0.16,0.248,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2027-01-01,0.201,0.156,0.258,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2027-02-01,0.195,0.148,0.258,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2027-03-01,0.198,0.145,0.268,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2027-04-01,0.208,0.149,0.289,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2027-05-01,0.209,0.147,0.297,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2027-06-01,0.209,0.144,0.304,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2027-07-01,0.197,0.133,0.292,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2027-08-01,0.193,0.128,0.291,False
+Eggs (USD/UNIT),Nasionál (mediana),Holt-Winters,2027-09-01,0.202,0.131,0.31,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2026-10-01,0.2,0.175,0.228,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2026-11-01,0.2,0.167,0.24,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2026-12-01,0.2,0.161,0.249,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2027-01-01,0.2,0.156,0.257,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2027-02-01,0.2,0.151,0.265,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2027-03-01,0.2,0.147,0.271,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2027-04-01,0.2,0.144,0.278,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2027-05-01,0.201,0.141,0.285,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2027-06-01,0.201,0.138,0.291,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2027-07-01,0.201,0.135,0.297,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2027-08-01,0.201,0.133,0.303,False
+Eggs (USD/UNIT),Nasionál (mediana),SARIMA,2027-09-01,0.201,0.13,0.308,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2026-09-01,1.591,1.492,1.698,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2026-10-01,1.566,1.42,1.728,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2026-11-01,1.525,1.347,1.726,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2026-12-01,1.505,1.302,1.74,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2027-01-01,1.468,1.247,1.729,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2027-02-01,1.45,1.211,1.736,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2027-03-01,1.479,1.217,1.798,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2027-04-01,1.509,1.224,1.86,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2027-05-01,1.514,1.212,1.892,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2027-06-01,1.502,1.188,1.9,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2027-07-01,1.52,1.188,1.945,False
+Fuel (diesel) (USD/L),Nasionál (mediana),Holt-Winters,2027-08-01,1.528,1.181,1.978,False
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2026-09-01,1.58,1.48,1.685,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2026-10-01,1.572,1.425,1.735,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2026-11-01,1.584,1.4,1.793,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2026-12-01,1.582,1.368,1.829,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2027-01-01,1.584,1.346,1.866,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2027-02-01,1.584,1.323,1.897,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2027-03-01,1.548,1.273,1.881,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2027-04-01,1.516,1.229,1.869,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2027-05-01,1.515,1.213,1.892,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2027-06-01,1.514,1.197,1.915,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2027-07-01,1.51,1.18,1.933,True
+Fuel (diesel) (USD/L),Nasionál (mediana),SARIMA,2027-08-01,1.512,1.168,1.957,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2026-09-01,1.575,1.438,1.725,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2026-10-01,1.578,1.391,1.791,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2026-11-01,1.542,1.322,1.798,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2026-12-01,1.529,1.281,1.824,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2027-01-01,1.519,1.247,1.85,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2027-02-01,1.51,1.217,1.874,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2027-03-01,1.516,1.201,1.914,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2027-04-01,1.577,1.23,2.023,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2027-05-01,1.576,1.211,2.052,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2027-06-01,1.636,1.239,2.16,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2027-07-01,1.582,1.182,2.117,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),Holt-Winters,2027-08-01,1.646,1.214,2.231,False
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2026-09-01,1.558,1.422,1.706,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2026-10-01,1.561,1.376,1.771,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2026-11-01,1.559,1.337,1.817,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2026-12-01,1.559,1.306,1.86,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2027-01-01,1.553,1.275,1.891,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2027-02-01,1.553,1.251,1.926,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2027-03-01,1.557,1.233,1.965,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2027-04-01,1.581,1.233,2.028,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2027-05-01,1.577,1.211,2.053,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2027-06-01,1.593,1.207,2.104,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2027-07-01,1.582,1.182,2.117,True
+Fuel (petrol-gasoline) (USD/L),Nasionál (mediana),SARIMA,2027-08-01,1.589,1.173,2.155,True
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,1.606,1.117,2.309,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,1.787,1.172,2.727,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,1.709,1.032,2.83,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,1.747,0.995,3.069,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,1.745,0.938,3.248,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,1.811,0.925,3.547,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,1.509,0.735,3.101,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,1.71,0.796,3.675,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,1.545,0.689,3.464,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,1.525,0.653,3.56,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,1.638,0.675,3.973,False
+Maize (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,1.687,0.67,4.245,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,1.777,1.236,2.555,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,1.791,1.174,2.732,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,1.782,1.076,2.951,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,1.787,1.017,3.138,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,1.785,0.959,3.321,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,1.799,0.919,3.523,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,1.79,0.871,3.678,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,1.789,0.833,3.845,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,1.789,0.798,4.011,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,1.788,0.766,4.174,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,1.798,0.741,4.361,False
+Maize (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,1.8,0.715,4.531,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,3.972,3.656,4.316,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,3.943,3.58,4.343,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,3.943,3.514,4.426,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,3.924,3.449,4.464,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,4.042,3.507,4.659,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,4.023,3.45,4.692,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,4.034,3.421,4.757,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,4.076,3.421,4.856,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,4.081,3.392,4.91,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,4.056,3.34,4.924,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,4.054,3.309,4.966,False
+Meat (chicken) (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,4.025,3.258,4.972,False
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,3.824,3.519,4.154,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,3.973,3.607,4.376,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,3.919,3.492,4.398,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,3.985,3.503,4.534,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,3.856,3.345,4.445,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,3.857,3.307,4.499,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,3.914,3.319,4.615,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,3.816,3.203,4.547,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,3.82,3.176,4.596,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,3.824,3.15,4.644,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,3.816,3.116,4.675,True
+Meat (chicken) (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,3.698,2.994,4.568,True
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2026-10-01,1.427,1.267,1.606,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2026-11-01,1.432,1.17,1.754,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2026-12-01,1.407,1.072,1.847,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2027-01-01,1.428,1.025,1.988,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2027-02-01,1.438,0.981,2.108,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2027-03-01,1.424,0.928,2.184,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2027-04-01,1.444,0.904,2.309,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2027-05-01,1.548,0.932,2.57,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2027-06-01,1.566,0.91,2.693,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2027-07-01,1.544,0.868,2.745,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2027-08-01,1.505,0.82,2.762,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),Holt-Winters,2027-09-01,1.466,0.775,2.771,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2026-10-01,1.447,1.285,1.629,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2026-11-01,1.442,1.177,1.766,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2026-12-01,1.445,1.101,1.897,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2027-01-01,1.445,1.038,2.012,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2027-02-01,1.443,0.984,2.114,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2027-03-01,1.443,0.941,2.214,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2027-04-01,1.442,0.902,2.305,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2027-05-01,1.44,0.867,2.39,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2027-06-01,1.439,0.837,2.476,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2027-07-01,1.439,0.809,2.559,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2027-08-01,1.439,0.784,2.64,False
+"Oil (vegetable, imported) (USD/L)",Nasionál (mediana),SARIMA,2027-09-01,1.44,0.762,2.722,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,2.585,1.999,3.342,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,2.441,1.853,3.215,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,2.471,1.762,3.465,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,2.521,1.75,3.63,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,2.409,1.609,3.607,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,2.718,1.766,4.182,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,2.346,1.479,3.72,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,2.604,1.6,4.238,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,2.658,1.591,4.44,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,2.809,1.642,4.805,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,2.426,1.386,4.249,False
+Onions (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,2.611,1.458,4.674,False
+Onions (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,2.61,2.019,3.374,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,2.824,2.144,3.719,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,2.581,1.841,3.62,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,2.691,1.868,3.875,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,2.532,1.691,3.791,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,2.705,1.758,4.162,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,2.462,1.552,3.906,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,2.59,1.591,4.214,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,2.672,1.6,4.464,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,2.75,1.608,4.705,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,2.624,1.499,4.595,True
+Onions (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,2.713,1.515,4.856,True
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,1.242,0.957,1.613,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,1.304,0.973,1.747,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,1.321,0.929,1.879,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,1.301,0.882,1.92,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,1.302,0.848,2.0,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,1.41,0.888,2.239,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,1.29,0.787,2.116,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,1.36,0.805,2.298,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,1.297,0.746,2.255,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,1.437,0.805,2.567,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,1.343,0.733,2.463,False
+Potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,1.394,0.742,2.619,False
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,1.36,1.047,1.766,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,1.326,0.989,1.778,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,1.358,0.954,1.931,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,1.358,0.92,2.003,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,1.356,0.883,2.082,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,1.381,0.87,2.192,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,1.344,0.819,2.203,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,1.33,0.787,2.247,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,1.329,0.765,2.311,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,1.328,0.744,2.373,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,1.34,0.731,2.456,True
+Potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,1.329,0.707,2.498,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2026-10-01,0.585,0.549,0.623,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2026-11-01,0.595,0.546,0.649,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2026-12-01,0.592,0.533,0.658,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-01-01,0.599,0.53,0.676,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-02-01,0.6,0.524,0.687,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-03-01,0.605,0.522,0.702,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-04-01,0.604,0.515,0.708,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-05-01,0.616,0.519,0.73,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-06-01,0.607,0.507,0.727,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-07-01,0.601,0.497,0.727,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-08-01,0.613,0.503,0.748,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-09-01,0.614,0.499,0.755,True
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2026-10-01,0.597,0.56,0.636,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2026-11-01,0.597,0.548,0.652,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2026-12-01,0.597,0.538,0.664,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2027-01-01,0.597,0.529,0.674,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2027-02-01,0.597,0.522,0.684,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2027-03-01,0.597,0.515,0.692,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2027-04-01,0.597,0.509,0.7,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2027-05-01,0.597,0.504,0.708,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2027-06-01,0.597,0.499,0.715,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2027-07-01,0.597,0.494,0.722,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2027-08-01,0.597,0.489,0.729,False
+"Rice (white, imported) (USD/KG)",Nasionál (mediana),SARIMA,2027-09-01,0.597,0.485,0.735,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2026-10-01,1.971,1.59,2.442,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2026-11-01,2.089,1.64,2.663,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2026-12-01,2.017,1.507,2.698,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-01-01,1.984,1.437,2.738,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-02-01,2.035,1.427,2.903,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-03-01,1.964,1.339,2.88,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-04-01,2.047,1.358,3.085,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-05-01,2.08,1.346,3.214,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-06-01,2.011,1.271,3.182,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-07-01,1.975,1.22,3.196,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-08-01,1.969,1.191,3.255,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),Holt-Winters,2027-09-01,1.984,1.176,3.35,False
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2026-10-01,2.011,1.623,2.492,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2026-11-01,2.088,1.639,2.661,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2026-12-01,2.031,1.518,2.716,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2027-01-01,2.093,1.517,2.889,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2027-02-01,2.064,1.447,2.944,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2027-03-01,2.118,1.444,3.106,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2027-04-01,2.037,1.352,3.07,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2027-05-01,2.053,1.329,3.172,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2027-06-01,2.047,1.294,3.239,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2027-07-01,2.042,1.262,3.305,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2027-08-01,1.991,1.204,3.292,True
+"Rice (white, local) (USD/KG)",Nasionál (mediana),SARIMA,2027-09-01,1.943,1.151,3.28,True
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,0.487,0.419,0.566,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,0.493,0.403,0.602,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,0.49,0.385,0.624,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,0.522,0.396,0.688,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,0.506,0.372,0.688,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,0.544,0.389,0.76,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,0.537,0.374,0.77,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,0.503,0.342,0.739,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,0.5,0.332,0.751,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,0.502,0.327,0.771,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,0.513,0.327,0.804,False
+Salt (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,0.497,0.311,0.795,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,0.496,0.427,0.576,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,0.497,0.407,0.606,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,0.496,0.39,0.632,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,0.515,0.391,0.678,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,0.509,0.375,0.692,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,0.578,0.414,0.808,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,0.571,0.398,0.819,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,0.496,0.338,0.73,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,0.496,0.33,0.746,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,0.496,0.323,0.763,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,0.496,0.317,0.778,False
+Salt (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,0.496,0.31,0.794,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,0.98,0.811,1.183,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,0.928,0.719,1.198,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,0.967,0.711,1.317,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,1.033,0.726,1.472,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,1.063,0.717,1.577,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,1.048,0.682,1.611,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,1.041,0.655,1.656,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,1.026,0.625,1.683,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,1.018,0.602,1.72,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,1.018,0.586,1.769,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,1.027,0.576,1.832,False
+Sugar (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,1.0,0.547,1.83,False
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,1.02,0.845,1.232,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,1.023,0.793,1.32,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,1.017,0.747,1.385,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,0.991,0.695,1.411,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,0.962,0.649,1.427,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,0.998,0.649,1.534,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,1.033,0.65,1.643,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,1.023,0.624,1.678,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,1.023,0.606,1.728,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,1.023,0.589,1.777,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,1.023,0.573,1.825,True
+Sugar (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,1.023,0.559,1.872,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,1.037,0.785,1.37,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,1.148,0.831,1.587,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,1.105,0.751,1.625,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,1.176,0.764,1.81,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,1.19,0.74,1.914,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,1.202,0.718,2.01,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,1.12,0.645,1.943,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,1.129,0.628,2.027,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,1.008,0.544,1.871,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,1.039,0.543,1.988,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,1.07,0.543,2.109,True
+Sweet potatoes (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,1.092,0.539,2.213,True
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,1.14,0.863,1.505,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,1.143,0.827,1.579,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,1.143,0.777,1.682,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,1.144,0.743,1.761,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,1.143,0.711,1.839,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,1.146,0.685,1.917,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,1.141,0.658,1.98,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,1.142,0.636,2.051,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,1.142,0.616,2.119,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,1.142,0.597,2.185,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,1.143,0.58,2.253,False
+Sweet potatoes (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,1.144,0.564,2.318,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,1.034,0.782,1.368,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,1.036,0.746,1.439,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,1.13,0.764,1.671,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,1.074,0.693,1.666,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,1.046,0.645,1.696,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,1.116,0.661,1.884,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,1.035,0.59,1.815,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,1.06,0.584,1.925,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,0.939,0.5,1.764,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,0.947,0.488,1.835,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,1.044,0.523,2.085,False
+Taro (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,1.023,0.497,2.103,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,1.063,0.804,1.406,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,1.047,0.754,1.454,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,1.075,0.727,1.591,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,1.054,0.68,1.635,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,1.059,0.653,1.717,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,1.072,0.635,1.81,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,1.06,0.605,1.859,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,1.055,0.581,1.916,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,1.061,0.565,1.992,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,1.067,0.551,2.068,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,1.092,0.547,2.182,False
+Taro (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,1.075,0.523,2.211,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,1.671,1.202,2.323,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,1.733,1.183,2.539,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,1.765,1.118,2.786,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,1.949,1.171,3.244,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,1.949,1.112,3.418,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,1.993,1.085,3.659,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,2.229,1.162,4.274,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,2.383,1.193,4.758,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,2.256,1.087,4.68,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,2.168,1.007,4.664,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,1.959,0.879,4.364,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,1.822,0.791,4.196,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,2.042,1.469,2.839,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,2.096,1.43,3.071,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,2.107,1.335,3.325,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,2.011,1.208,3.347,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,1.995,1.138,3.497,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,2.047,1.115,3.759,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,1.977,1.031,3.791,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,2.113,1.058,4.219,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,2.124,1.024,4.407,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,2.135,0.992,4.594,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,2.037,0.914,4.538,False
+Tomatoes (local) (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,2.087,0.906,4.806,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2026-10-01,0.958,0.873,1.051,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2026-11-01,0.987,0.884,1.103,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2026-12-01,0.964,0.845,1.101,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2027-01-01,0.975,0.841,1.132,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2027-02-01,0.982,0.833,1.157,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2027-03-01,0.979,0.819,1.169,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2027-04-01,0.944,0.78,1.142,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2027-05-01,0.975,0.796,1.194,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2027-06-01,0.974,0.786,1.206,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2027-07-01,0.984,0.785,1.232,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2027-08-01,0.967,0.764,1.224,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),Holt-Winters,2027-09-01,0.946,0.74,1.209,False
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2026-10-01,0.947,0.863,1.038,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2026-11-01,0.937,0.839,1.047,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2026-12-01,0.94,0.823,1.072,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2027-01-01,0.939,0.809,1.09,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2027-02-01,0.94,0.797,1.107,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2027-03-01,0.94,0.787,1.123,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2027-04-01,0.938,0.775,1.135,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2027-05-01,0.94,0.767,1.151,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2027-06-01,0.94,0.758,1.164,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2027-07-01,0.94,0.75,1.177,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2027-08-01,0.94,0.743,1.189,True
+Wheat flour (imported) (USD/KG),Nasionál (mediana),SARIMA,2027-09-01,0.939,0.735,1.2,True
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2026-10-01,1.296,0.986,1.704,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2026-11-01,1.327,0.995,1.769,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2026-12-01,1.392,1.03,1.88,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2027-01-01,1.451,1.061,1.985,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2027-02-01,1.445,1.043,2.001,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2027-03-01,1.423,1.015,1.993,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2027-04-01,1.413,0.997,2.003,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2027-05-01,1.435,1.002,2.057,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2027-06-01,1.474,1.018,2.134,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2027-07-01,1.433,0.979,2.097,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2027-08-01,1.607,1.087,2.375,False
+Beans (kidney) (USD/KG),Bobonaro,Holt-Winters,2027-09-01,1.506,1.009,2.248,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2026-10-01,1.327,1.01,1.745,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2026-11-01,1.362,1.022,1.816,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2026-12-01,1.423,1.053,1.922,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2027-01-01,1.478,1.08,2.022,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2027-02-01,1.462,1.056,2.025,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2027-03-01,1.438,1.026,2.015,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2027-04-01,1.423,1.004,2.016,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2027-05-01,1.448,1.011,2.075,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2027-06-01,1.477,1.02,2.138,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2027-07-01,1.463,0.999,2.14,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2027-08-01,1.581,1.07,2.338,False
+Beans (kidney) (USD/KG),Bobonaro,SARIMA,2027-09-01,1.515,1.015,2.262,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2025-10-01,3.432,2.59,4.547,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2025-11-01,3.391,2.432,4.728,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2025-12-01,3.255,2.234,4.743,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2026-01-01,3.479,2.296,5.273,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2026-02-01,3.956,2.518,6.215,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2026-03-01,3.661,2.254,5.946,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2026-04-01,3.94,2.351,6.602,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2026-05-01,3.85,2.231,6.644,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2026-06-01,3.622,2.041,6.428,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2026-07-01,3.974,2.181,7.242,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2026-08-01,3.929,2.101,7.346,False
+Beans (kidney) (USD/KG),Lautem,Holt-Winters,2026-09-01,3.492,1.824,6.686,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2025-10-01,3.468,2.617,4.596,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2025-11-01,3.444,2.47,4.802,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2025-12-01,3.321,2.279,4.838,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2026-01-01,3.562,2.35,5.398,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2026-02-01,4.063,2.586,6.383,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2026-03-01,3.769,2.32,6.122,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2026-04-01,4.065,2.426,6.812,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2026-05-01,3.979,2.306,6.866,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2026-06-01,3.748,2.112,6.652,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2026-07-01,4.08,2.239,7.436,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2026-08-01,4.121,2.204,7.706,False
+Beans (kidney) (USD/KG),Lautem,SARIMA,2026-09-01,3.683,1.923,7.052,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-01-01,3.933,2.412,6.413,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-02-01,3.933,2.302,6.72,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-03-01,4.24,2.378,7.561,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-04-01,4.329,2.333,8.035,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-05-01,4.511,2.341,8.692,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-06-01,4.778,2.394,9.54,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-07-01,4.196,2.035,8.654,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-08-01,4.477,2.103,9.528,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-09-01,3.883,1.77,8.516,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-10-01,4.363,1.932,9.852,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-11-01,4.401,1.895,10.219,False
+Beans (kidney) (USD/KG),Liquica,Holt-Winters,2026-12-01,3.953,1.657,9.433,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-01-01,3.904,2.394,6.365,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-02-01,3.857,2.258,6.59,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-03-01,4.134,2.318,7.372,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-04-01,4.218,2.273,7.828,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-05-01,4.412,2.29,8.5,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-06-01,4.687,2.348,9.358,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-07-01,4.228,2.05,8.72,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-08-01,4.501,2.115,9.579,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-09-01,3.911,1.783,8.578,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-10-01,4.417,1.956,9.974,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-11-01,4.49,1.933,10.427,False
+Beans (kidney) (USD/KG),Liquica,SARIMA,2026-12-01,4.075,1.708,9.723,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-03-01,3.492,2.262,5.391,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-04-01,3.493,2.17,5.623,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-05-01,3.857,2.305,6.452,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-06-01,3.78,2.182,6.55,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-07-01,3.466,1.935,6.208,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-08-01,3.315,1.794,6.126,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-09-01,3.772,1.981,7.182,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-10-01,3.795,1.937,7.434,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-11-01,3.825,1.9,7.701,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2026-12-01,3.661,1.771,7.568,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2027-01-01,3.631,1.712,7.697,False
+Beans (kidney) (USD/KG),Manatuto,Holt-Winters,2027-02-01,3.484,1.603,7.57,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-03-01,3.463,2.243,5.346,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-04-01,3.462,2.15,5.573,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-05-01,3.717,2.222,6.219,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-06-01,3.878,2.238,6.718,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-07-01,3.606,2.013,6.458,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-08-01,3.502,1.895,6.472,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-09-01,3.863,2.029,7.355,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-10-01,3.874,1.978,7.589,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-11-01,3.805,1.89,7.66,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2026-12-01,3.749,1.814,7.749,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2027-01-01,3.771,1.779,7.995,False
+Beans (kidney) (USD/KG),Manatuto,SARIMA,2027-02-01,3.595,1.655,7.812,False
+Chili (USD/KG),Lautem,Holt-Winters,2025-10-01,5.327,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2025-11-01,5.756,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2025-12-01,5.78,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2026-01-01,6.632,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2026-02-01,7.168,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2026-03-01,6.014,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2026-04-01,6.435,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2026-05-01,5.944,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2026-06-01,5.856,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2026-07-01,5.834,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2026-08-01,5.69,0.0,inf,False
+Chili (USD/KG),Lautem,Holt-Winters,2026-09-01,4.94,0.0,inf,False
+Chili (USD/KG),Lautem,SARIMA,2025-10-01,5.822,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2025-11-01,8.067,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2025-12-01,6.697,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2026-01-01,6.519,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2026-02-01,8.105,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2026-03-01,4.794,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2026-04-01,6.824,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2026-05-01,4.477,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2026-06-01,6.266,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2026-07-01,6.456,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2026-08-01,7.217,0.0,inf,True
+Chili (USD/KG),Lautem,SARIMA,2026-09-01,6.684,0.0,inf,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-01-01,2.954,1.221,7.147,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-02-01,3.943,1.526,10.19,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-03-01,2.824,1.028,7.761,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-04-01,3.271,1.123,9.524,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-05-01,3.55,1.154,10.921,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-06-01,3.065,0.945,9.937,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-07-01,3.258,0.957,11.086,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-08-01,3.227,0.905,11.515,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-09-01,2.58,0.691,9.636,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-10-01,3.043,0.78,11.879,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-11-01,2.996,0.735,12.203,True
+Chili (USD/KG),Liquica,Holt-Winters,2026-12-01,2.865,0.675,12.163,True
+Chili (USD/KG),Liquica,SARIMA,2026-01-01,2.814,1.163,6.809,False
+Chili (USD/KG),Liquica,SARIMA,2026-02-01,3.666,1.419,9.472,False
+Chili (USD/KG),Liquica,SARIMA,2026-03-01,2.576,0.938,7.08,False
+Chili (USD/KG),Liquica,SARIMA,2026-04-01,2.988,1.026,8.701,False
+Chili (USD/KG),Liquica,SARIMA,2026-05-01,3.302,1.073,10.16,False
+Chili (USD/KG),Liquica,SARIMA,2026-06-01,2.841,0.876,9.211,False
+Chili (USD/KG),Liquica,SARIMA,2026-07-01,2.952,0.868,10.046,False
+Chili (USD/KG),Liquica,SARIMA,2026-08-01,2.836,0.795,10.118,False
+Chili (USD/KG),Liquica,SARIMA,2026-09-01,2.212,0.592,8.26,False
+Chili (USD/KG),Liquica,SARIMA,2026-10-01,2.717,0.696,10.606,False
+Chili (USD/KG),Liquica,SARIMA,2026-11-01,2.645,0.649,10.773,False
+Chili (USD/KG),Liquica,SARIMA,2026-12-01,2.611,0.615,11.084,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-03-01,7.84,4.272,14.386,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-04-01,7.026,3.191,15.468,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-05-01,5.428,2.128,13.85,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-06-01,6.176,2.132,17.891,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-07-01,7.168,2.215,23.192,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-08-01,6.873,1.92,24.6,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-09-01,7.538,1.918,29.626,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-10-01,6.516,1.519,27.956,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-11-01,6.629,1.423,30.888,False
+Chili (USD/KG),Manatuto,Holt-Winters,2026-12-01,6.337,1.257,31.932,False
+Chili (USD/KG),Manatuto,Holt-Winters,2027-01-01,6.868,1.265,37.294,False
+Chili (USD/KG),Manatuto,Holt-Winters,2027-02-01,6.768,1.16,39.48,False
+Chili (USD/KG),Manatuto,SARIMA,2026-03-01,7.999,4.359,14.677,False
+Chili (USD/KG),Manatuto,SARIMA,2026-04-01,7.29,3.311,16.05,False
+Chili (USD/KG),Manatuto,SARIMA,2026-05-01,5.721,2.242,14.597,False
+Chili (USD/KG),Manatuto,SARIMA,2026-06-01,6.8,2.347,19.699,False
+Chili (USD/KG),Manatuto,SARIMA,2026-07-01,7.724,2.387,24.992,False
+Chili (USD/KG),Manatuto,SARIMA,2026-08-01,7.309,2.042,26.161,False
+Chili (USD/KG),Manatuto,SARIMA,2026-09-01,7.962,2.026,31.294,False
+Chili (USD/KG),Manatuto,SARIMA,2026-10-01,6.873,1.602,29.486,False
+Chili (USD/KG),Manatuto,SARIMA,2026-11-01,7.011,1.505,32.666,False
+Chili (USD/KG),Manatuto,SARIMA,2026-12-01,6.742,1.338,33.976,False
+Chili (USD/KG),Manatuto,SARIMA,2027-01-01,7.372,1.357,40.03,False
+Chili (USD/KG),Manatuto,SARIMA,2027-02-01,7.344,1.259,42.841,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2026-10-01,0.195,0.175,0.217,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2026-11-01,0.193,0.173,0.216,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2026-12-01,0.197,0.176,0.22,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2027-01-01,0.197,0.175,0.22,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2027-02-01,0.197,0.175,0.221,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2027-03-01,0.2,0.178,0.226,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2027-04-01,0.202,0.179,0.228,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2027-05-01,0.207,0.183,0.234,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2027-06-01,0.208,0.184,0.236,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2027-07-01,0.198,0.174,0.225,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2027-08-01,0.198,0.174,0.225,False
+Eggs (USD/UNIT),Bobonaro,Holt-Winters,2027-09-01,0.205,0.18,0.234,False
+Eggs (USD/UNIT),Bobonaro,SARIMA,2026-10-01,0.191,0.171,0.212,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2026-11-01,0.189,0.169,0.211,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2026-12-01,0.193,0.172,0.215,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2027-01-01,0.192,0.172,0.216,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2027-02-01,0.193,0.171,0.216,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2027-03-01,0.196,0.174,0.221,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2027-04-01,0.198,0.175,0.223,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2027-05-01,0.203,0.179,0.229,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2027-06-01,0.204,0.18,0.232,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2027-07-01,0.194,0.171,0.22,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2027-08-01,0.194,0.17,0.221,True
+Eggs (USD/UNIT),Bobonaro,SARIMA,2027-09-01,0.202,0.177,0.23,True
+Eggs (USD/UNIT),Lautem,Holt-Winters,2025-10-01,0.203,0.151,0.273,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2025-11-01,0.231,0.165,0.324,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2025-12-01,0.209,0.144,0.304,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2026-01-01,0.188,0.125,0.282,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2026-02-01,0.192,0.124,0.298,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2026-03-01,0.213,0.134,0.339,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2026-04-01,0.207,0.126,0.339,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2026-05-01,0.188,0.112,0.316,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2026-06-01,0.183,0.106,0.314,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2026-07-01,0.173,0.098,0.306,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2026-08-01,0.166,0.092,0.3,False
+Eggs (USD/UNIT),Lautem,Holt-Winters,2026-09-01,0.173,0.094,0.319,False
+Eggs (USD/UNIT),Lautem,SARIMA,2025-10-01,0.197,0.146,0.264,False
+Eggs (USD/UNIT),Lautem,SARIMA,2025-11-01,0.218,0.156,0.306,False
+Eggs (USD/UNIT),Lautem,SARIMA,2025-12-01,0.198,0.136,0.287,False
+Eggs (USD/UNIT),Lautem,SARIMA,2026-01-01,0.184,0.122,0.276,False
+Eggs (USD/UNIT),Lautem,SARIMA,2026-02-01,0.185,0.119,0.286,False
+Eggs (USD/UNIT),Lautem,SARIMA,2026-03-01,0.203,0.128,0.324,False
+Eggs (USD/UNIT),Lautem,SARIMA,2026-04-01,0.194,0.118,0.317,False
+Eggs (USD/UNIT),Lautem,SARIMA,2026-05-01,0.181,0.108,0.305,False
+Eggs (USD/UNIT),Lautem,SARIMA,2026-06-01,0.18,0.104,0.31,False
+Eggs (USD/UNIT),Lautem,SARIMA,2026-07-01,0.173,0.098,0.305,False
+Eggs (USD/UNIT),Lautem,SARIMA,2026-08-01,0.161,0.089,0.29,False
+Eggs (USD/UNIT),Lautem,SARIMA,2026-09-01,0.164,0.089,0.303,False
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-01-01,0.161,0.141,0.184,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-02-01,0.163,0.14,0.19,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-03-01,0.165,0.139,0.196,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-04-01,0.171,0.142,0.206,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-05-01,0.164,0.134,0.201,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-06-01,0.162,0.131,0.202,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-07-01,0.16,0.127,0.201,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-08-01,0.157,0.123,0.2,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-09-01,0.153,0.119,0.197,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-10-01,0.153,0.117,0.199,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-11-01,0.155,0.118,0.205,True
+Eggs (USD/UNIT),Liquica,Holt-Winters,2026-12-01,0.161,0.121,0.214,True
+Eggs (USD/UNIT),Liquica,SARIMA,2026-01-01,0.161,0.141,0.184,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-02-01,0.163,0.14,0.19,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-03-01,0.165,0.139,0.196,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-04-01,0.171,0.142,0.206,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-05-01,0.164,0.134,0.2,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-06-01,0.16,0.129,0.199,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-07-01,0.158,0.125,0.198,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-08-01,0.156,0.122,0.198,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-09-01,0.152,0.118,0.195,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-10-01,0.152,0.116,0.198,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-11-01,0.154,0.117,0.203,False
+Eggs (USD/UNIT),Liquica,SARIMA,2026-12-01,0.159,0.12,0.212,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2026-04-01,0.164,0.134,0.201,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2026-05-01,0.168,0.129,0.219,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2026-06-01,0.154,0.112,0.21,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2026-07-01,0.15,0.106,0.215,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2026-08-01,0.154,0.104,0.228,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2026-09-01,0.152,0.099,0.232,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2026-10-01,0.156,0.099,0.246,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2026-11-01,0.16,0.098,0.259,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2026-12-01,0.16,0.096,0.268,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2027-01-01,0.15,0.088,0.258,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2027-02-01,0.153,0.087,0.268,False
+Eggs (USD/UNIT),Manatuto,Holt-Winters,2027-03-01,0.172,0.095,0.309,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2026-04-01,0.165,0.134,0.202,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2026-05-01,0.169,0.13,0.22,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2026-06-01,0.152,0.111,0.208,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2026-07-01,0.15,0.105,0.214,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2026-08-01,0.154,0.104,0.228,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2026-09-01,0.152,0.1,0.233,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2026-10-01,0.157,0.099,0.247,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2026-11-01,0.161,0.099,0.261,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2026-12-01,0.162,0.097,0.271,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2027-01-01,0.152,0.089,0.261,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2027-02-01,0.155,0.088,0.272,False
+Eggs (USD/UNIT),Manatuto,SARIMA,2027-03-01,0.174,0.097,0.313,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2026-09-01,1.591,1.49,1.7,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2026-10-01,1.566,1.421,1.727,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2026-11-01,1.525,1.351,1.721,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2026-12-01,1.505,1.307,1.733,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2027-01-01,1.468,1.253,1.72,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2027-02-01,1.45,1.219,1.726,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2027-03-01,1.479,1.226,1.785,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2027-04-01,1.509,1.234,1.846,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2027-05-01,1.514,1.223,1.875,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2027-06-01,1.502,1.199,1.882,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2027-07-01,1.52,1.2,1.926,False
+Fuel (diesel) (USD/L),Dili,Holt-Winters,2027-08-01,1.528,1.193,1.957,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2026-09-01,1.614,1.51,1.724,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2026-10-01,1.616,1.465,1.781,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2026-11-01,1.593,1.411,1.799,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2026-12-01,1.594,1.384,1.835,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2027-01-01,1.571,1.341,1.84,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2027-02-01,1.567,1.317,1.864,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2027-03-01,1.615,1.338,1.949,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2027-04-01,1.664,1.36,2.035,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2027-05-01,1.68,1.357,2.081,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2027-06-01,1.678,1.339,2.102,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2027-07-01,1.708,1.348,2.164,False
+Fuel (diesel) (USD/L),Dili,SARIMA,2027-08-01,1.725,1.347,2.209,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2026-09-01,1.575,1.439,1.724,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2026-10-01,1.578,1.393,1.788,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2026-11-01,1.542,1.325,1.794,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2026-12-01,1.529,1.284,1.82,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2027-01-01,1.519,1.25,1.844,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2027-02-01,1.51,1.221,1.868,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2027-03-01,1.516,1.206,1.907,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2027-04-01,1.577,1.235,2.015,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2027-05-01,1.576,1.216,2.044,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2027-06-01,1.636,1.244,2.15,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2027-07-01,1.582,1.187,2.107,False
+Fuel (petrol-gasoline) (USD/L),Dili,Holt-Winters,2027-08-01,1.646,1.22,2.22,False
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2026-09-01,1.575,1.439,1.724,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2026-10-01,1.581,1.395,1.791,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2026-11-01,1.546,1.329,1.799,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2026-12-01,1.535,1.289,1.827,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2027-01-01,1.526,1.256,1.853,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2027-02-01,1.519,1.228,1.879,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2027-03-01,1.527,1.214,1.921,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2027-04-01,1.591,1.245,2.032,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2027-05-01,1.592,1.228,2.063,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2027-06-01,1.653,1.258,2.174,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2027-07-01,1.608,1.207,2.142,True
+Fuel (petrol-gasoline) (USD/L),Dili,SARIMA,2027-08-01,1.676,1.242,2.26,True
+Maize (USD/KG),Bobonaro,Holt-Winters,2026-10-01,1.176,0.903,1.532,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2026-11-01,1.194,0.901,1.581,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2026-12-01,1.198,0.89,1.612,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2027-01-01,1.158,0.848,1.581,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2027-02-01,1.209,0.873,1.675,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2027-03-01,1.145,0.815,1.608,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2027-04-01,1.112,0.782,1.583,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2027-05-01,1.13,0.784,1.629,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2027-06-01,1.118,0.766,1.631,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2027-07-01,1.128,0.764,1.666,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2027-08-01,1.161,0.778,1.733,False
+Maize (USD/KG),Bobonaro,Holt-Winters,2027-09-01,1.171,0.776,1.768,False
+Maize (USD/KG),Bobonaro,SARIMA,2026-10-01,1.153,0.885,1.501,False
+Maize (USD/KG),Bobonaro,SARIMA,2026-11-01,1.164,0.879,1.542,False
+Maize (USD/KG),Bobonaro,SARIMA,2026-12-01,1.162,0.864,1.564,False
+Maize (USD/KG),Bobonaro,SARIMA,2027-01-01,1.118,0.819,1.527,False
+Maize (USD/KG),Bobonaro,SARIMA,2027-02-01,1.162,0.839,1.61,False
+Maize (USD/KG),Bobonaro,SARIMA,2027-03-01,1.096,0.781,1.539,False
+Maize (USD/KG),Bobonaro,SARIMA,2027-04-01,1.06,0.745,1.508,False
+Maize (USD/KG),Bobonaro,SARIMA,2027-05-01,1.073,0.744,1.546,False
+Maize (USD/KG),Bobonaro,SARIMA,2027-06-01,1.082,0.742,1.578,False
+Maize (USD/KG),Bobonaro,SARIMA,2027-07-01,1.052,0.713,1.553,False
+Maize (USD/KG),Bobonaro,SARIMA,2027-08-01,1.077,0.721,1.608,False
+Maize (USD/KG),Bobonaro,SARIMA,2027-09-01,1.081,0.716,1.631,False
+Maize (USD/KG),Lautem,Holt-Winters,2025-10-01,0.906,0.651,1.26,False
+Maize (USD/KG),Lautem,Holt-Winters,2025-11-01,0.909,0.613,1.349,False
+Maize (USD/KG),Lautem,Holt-Winters,2025-12-01,0.884,0.564,1.384,False
+Maize (USD/KG),Lautem,Holt-Winters,2026-01-01,0.939,0.571,1.545,False
+Maize (USD/KG),Lautem,Holt-Winters,2026-02-01,0.816,0.474,1.403,False
+Maize (USD/KG),Lautem,Holt-Winters,2026-03-01,0.809,0.452,1.45,False
+Maize (USD/KG),Lautem,Holt-Winters,2026-04-01,0.839,0.451,1.563,False
+Maize (USD/KG),Lautem,Holt-Winters,2026-05-01,0.748,0.387,1.444,False
+Maize (USD/KG),Lautem,Holt-Winters,2026-06-01,0.765,0.383,1.528,False
+Maize (USD/KG),Lautem,Holt-Winters,2026-07-01,0.806,0.391,1.664,False
+Maize (USD/KG),Lautem,Holt-Winters,2026-08-01,0.784,0.368,1.67,False
+Maize (USD/KG),Lautem,Holt-Winters,2026-09-01,0.816,0.372,1.79,False
+Maize (USD/KG),Lautem,SARIMA,2025-10-01,0.909,0.653,1.264,False
+Maize (USD/KG),Lautem,SARIMA,2025-11-01,0.905,0.61,1.342,False
+Maize (USD/KG),Lautem,SARIMA,2025-12-01,0.873,0.557,1.368,False
+Maize (USD/KG),Lautem,SARIMA,2026-01-01,0.922,0.56,1.516,False
+Maize (USD/KG),Lautem,SARIMA,2026-02-01,0.796,0.463,1.368,False
+Maize (USD/KG),Lautem,SARIMA,2026-03-01,0.785,0.438,1.407,False
+Maize (USD/KG),Lautem,SARIMA,2026-04-01,0.81,0.435,1.509,False
+Maize (USD/KG),Lautem,SARIMA,2026-05-01,0.718,0.372,1.387,False
+Maize (USD/KG),Lautem,SARIMA,2026-06-01,0.732,0.366,1.462,False
+Maize (USD/KG),Lautem,SARIMA,2026-07-01,0.77,0.373,1.589,False
+Maize (USD/KG),Lautem,SARIMA,2026-08-01,0.734,0.345,1.563,False
+Maize (USD/KG),Lautem,SARIMA,2026-09-01,0.758,0.346,1.662,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-03-01,1.623,0.94,2.803,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-04-01,1.298,0.718,2.347,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-05-01,1.409,0.747,2.659,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-06-01,1.55,0.791,3.038,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-07-01,1.518,0.747,3.087,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-08-01,1.359,0.645,2.862,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-09-01,1.529,0.702,3.33,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-10-01,1.445,0.643,3.248,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-11-01,1.659,0.716,3.847,False
+Maize (USD/KG),Manatuto,Holt-Winters,2026-12-01,1.624,0.68,3.878,False
+Maize (USD/KG),Manatuto,Holt-Winters,2027-01-01,1.527,0.621,3.753,False
+Maize (USD/KG),Manatuto,Holt-Winters,2027-02-01,1.568,0.62,3.963,False
+Maize (USD/KG),Manatuto,SARIMA,2026-03-01,1.588,0.919,2.742,False
+Maize (USD/KG),Manatuto,SARIMA,2026-04-01,1.272,0.703,2.3,False
+Maize (USD/KG),Manatuto,SARIMA,2026-05-01,1.352,0.716,2.552,False
+Maize (USD/KG),Manatuto,SARIMA,2026-06-01,1.626,0.83,3.187,False
+Maize (USD/KG),Manatuto,SARIMA,2026-07-01,1.541,0.758,3.135,False
+Maize (USD/KG),Manatuto,SARIMA,2026-08-01,1.346,0.639,2.834,False
+Maize (USD/KG),Manatuto,SARIMA,2026-09-01,1.486,0.683,3.236,False
+Maize (USD/KG),Manatuto,SARIMA,2026-10-01,1.385,0.616,3.114,False
+Maize (USD/KG),Manatuto,SARIMA,2026-11-01,1.576,0.68,3.654,False
+Maize (USD/KG),Manatuto,SARIMA,2026-12-01,1.532,0.642,3.66,False
+Maize (USD/KG),Manatuto,SARIMA,2027-01-01,1.435,0.584,3.528,False
+Maize (USD/KG),Manatuto,SARIMA,2027-02-01,1.472,0.582,3.72,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2026-10-01,3.803,3.125,4.629,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2026-11-01,3.751,3.055,4.606,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2026-12-01,3.728,3.01,4.616,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2027-01-01,3.74,2.996,4.669,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2027-02-01,3.697,2.938,4.652,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2027-03-01,3.706,2.923,4.698,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2027-04-01,3.7,2.897,4.726,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2027-05-01,3.303,2.567,4.249,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2027-06-01,3.867,2.985,5.01,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2027-07-01,3.869,2.966,5.046,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2027-08-01,3.825,2.914,5.021,False
+Meat (chicken) (USD/KG),Bobonaro,Holt-Winters,2027-09-01,3.853,2.917,5.09,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2026-10-01,3.839,3.155,4.672,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2026-11-01,3.793,3.089,4.657,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2026-12-01,3.775,3.049,4.675,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2027-01-01,3.794,3.039,4.737,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2027-02-01,3.757,2.985,4.727,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2027-03-01,3.771,2.974,4.781,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2027-04-01,3.771,2.952,4.817,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2027-05-01,3.371,2.62,4.337,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2027-06-01,3.957,3.054,5.126,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2027-07-01,3.955,3.033,5.158,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2027-08-01,3.918,2.985,5.143,False
+Meat (chicken) (USD/KG),Bobonaro,SARIMA,2027-09-01,3.953,2.993,5.222,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2025-10-01,3.852,3.454,4.295,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2025-11-01,3.901,3.468,4.388,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2025-12-01,3.851,3.395,4.367,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2026-01-01,3.832,3.352,4.379,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2026-02-01,3.95,3.431,4.548,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2026-03-01,3.926,3.387,4.552,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2026-04-01,3.871,3.317,4.518,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2026-05-01,3.979,3.388,4.674,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2026-06-01,3.947,3.34,4.664,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2026-07-01,4.015,3.378,4.773,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2026-08-01,4.048,3.386,4.84,False
+Meat (chicken) (USD/KG),Lautem,Holt-Winters,2026-09-01,3.929,3.269,4.723,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2025-10-01,3.875,3.476,4.321,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2025-11-01,3.93,3.494,4.421,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2025-12-01,3.885,3.425,4.406,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2026-01-01,3.871,3.386,4.424,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2026-02-01,3.995,3.47,4.6,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2026-03-01,3.977,3.43,4.61,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2026-04-01,3.926,3.364,4.581,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2026-05-01,4.04,3.44,4.745,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2026-06-01,4.012,3.395,4.741,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2026-07-01,4.091,3.442,4.863,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2026-08-01,4.12,3.446,4.926,False
+Meat (chicken) (USD/KG),Lautem,SARIMA,2026-09-01,4.004,3.331,4.814,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2026-04-01,3.887,3.394,4.452,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2026-05-01,3.929,3.353,4.603,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2026-06-01,3.809,3.186,4.554,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2026-07-01,3.826,3.144,4.656,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2026-08-01,3.863,3.124,4.777,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2026-09-01,3.703,2.951,4.648,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2026-10-01,3.795,2.982,4.83,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2026-11-01,3.93,3.047,5.068,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2026-12-01,3.81,2.917,4.975,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2027-01-01,3.606,2.728,4.766,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2027-02-01,3.787,2.832,5.063,False
+Meat (chicken) (USD/KG),Manatuto,Holt-Winters,2027-03-01,3.927,2.905,5.308,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2026-04-01,3.88,3.387,4.443,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2026-05-01,3.934,3.357,4.61,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2026-06-01,3.846,3.217,4.598,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2026-07-01,3.812,3.133,4.639,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2026-08-01,3.867,3.127,4.781,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2026-09-01,3.722,2.966,4.672,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2026-10-01,3.83,3.009,4.875,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2026-11-01,3.982,3.087,5.135,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2026-12-01,3.874,2.966,5.06,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2027-01-01,3.679,2.784,4.863,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2027-02-01,3.877,2.9,5.183,False
+Meat (chicken) (USD/KG),Manatuto,SARIMA,2027-03-01,4.033,2.983,5.452,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2026-10-01,1.495,1.164,1.92,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2026-11-01,1.358,1.009,1.828,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2026-12-01,1.357,0.968,1.901,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2027-01-01,1.453,1.0,2.109,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2027-02-01,1.419,0.946,2.129,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2027-03-01,1.432,0.926,2.214,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2027-04-01,1.421,0.893,2.26,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2027-05-01,1.532,0.938,2.503,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2027-06-01,1.535,0.916,2.572,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2027-07-01,1.508,0.878,2.588,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2027-08-01,1.416,0.807,2.486,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,Holt-Winters,2027-09-01,1.374,0.766,2.465,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2026-10-01,1.511,1.176,1.941,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2026-11-01,1.382,1.027,1.86,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2026-12-01,1.388,0.991,1.945,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2027-01-01,1.495,1.029,2.17,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2027-02-01,1.468,0.978,2.202,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2027-03-01,1.488,0.962,2.301,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2027-04-01,1.482,0.932,2.357,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2027-05-01,1.604,0.982,2.621,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2027-06-01,1.611,0.962,2.7,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2027-07-01,1.589,0.926,2.727,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2027-08-01,1.503,0.856,2.639,False
+"Oil (vegetable, imported) (USD/L)",Bobonaro,SARIMA,2027-09-01,1.468,0.818,2.634,False
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2025-10-01,1.487,1.09,2.03,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2025-11-01,1.476,0.969,2.247,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2025-12-01,1.48,0.891,2.456,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2026-01-01,1.468,0.822,2.624,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2026-02-01,1.46,0.765,2.785,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2026-03-01,1.426,0.704,2.888,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2026-04-01,1.579,0.738,3.376,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2026-05-01,1.621,0.72,3.648,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2026-06-01,1.769,0.749,4.178,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2026-07-01,1.619,0.655,4.001,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2026-08-01,1.538,0.596,3.967,True
+"Oil (vegetable, imported) (USD/L)",Lautem,Holt-Winters,2026-09-01,1.507,0.56,4.053,True
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2025-10-01,1.493,1.094,2.038,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2025-11-01,1.504,0.988,2.291,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2025-12-01,1.504,0.906,2.497,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2026-01-01,1.515,0.848,2.708,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2026-02-01,1.636,0.857,3.121,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2026-03-01,1.635,0.808,3.31,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2026-04-01,1.657,0.775,3.544,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2026-05-01,1.625,0.722,3.656,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2026-06-01,2.451,1.038,5.787,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2026-07-01,1.657,0.671,4.095,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2026-08-01,1.538,0.596,3.968,False
+"Oil (vegetable, imported) (USD/L)",Lautem,SARIMA,2026-09-01,1.625,0.604,4.369,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-01-01,1.426,1.027,1.98,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-02-01,1.476,1.014,2.148,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-03-01,1.424,0.938,2.162,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-04-01,1.444,0.916,2.277,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-05-01,1.535,0.94,2.506,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-06-01,1.532,0.908,2.583,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-07-01,1.431,0.824,2.487,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-08-01,1.227,0.686,2.193,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-09-01,1.409,0.767,2.588,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-10-01,1.436,0.762,2.707,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-11-01,1.427,0.738,2.757,False
+"Oil (vegetable, imported) (USD/L)",Liquica,Holt-Winters,2026-12-01,1.47,0.743,2.911,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-01-01,1.439,1.036,1.999,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-02-01,1.496,1.028,2.177,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-03-01,1.449,0.955,2.2,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-04-01,1.476,0.936,2.326,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-05-01,1.562,0.957,2.551,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-06-01,1.586,0.94,2.674,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-07-01,1.49,0.858,2.59,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-08-01,1.285,0.719,2.297,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-09-01,1.484,0.808,2.725,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-10-01,1.52,0.806,2.865,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-11-01,1.517,0.785,2.932,False
+"Oil (vegetable, imported) (USD/L)",Liquica,SARIMA,2026-12-01,1.57,0.793,3.109,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2026-04-01,1.751,1.011,3.035,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2026-05-01,1.904,1.03,3.517,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2026-06-01,1.861,0.952,3.641,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2026-07-01,1.739,0.843,3.586,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2026-08-01,1.762,0.814,3.817,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2026-09-01,1.928,0.85,4.373,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2026-10-01,1.871,0.79,4.435,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2026-11-01,2.041,0.826,5.041,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2026-12-01,1.539,0.599,3.957,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2027-01-01,1.853,0.694,4.949,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2027-02-01,1.665,0.601,4.613,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,Holt-Winters,2027-03-01,1.445,0.503,4.148,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2026-04-01,1.77,1.021,3.068,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2026-05-01,1.911,1.034,3.53,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2026-06-01,1.89,0.966,3.698,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2026-07-01,1.759,0.853,3.628,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2026-08-01,1.814,0.838,3.929,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2026-09-01,2.046,0.902,4.642,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2026-10-01,2.005,0.846,4.752,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2026-11-01,2.331,0.944,5.759,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2026-12-01,1.525,0.593,3.921,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2027-01-01,2.057,0.77,5.493,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2027-02-01,1.826,0.659,5.06,False
+"Oil (vegetable, imported) (USD/L)",Manatuto,SARIMA,2027-03-01,1.52,0.53,4.364,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2026-10-01,1.531,1.005,2.332,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2026-11-01,1.468,0.87,2.477,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2026-12-01,1.46,0.794,2.682,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2027-01-01,1.529,0.772,3.028,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2027-02-01,1.644,0.776,3.482,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2027-03-01,1.802,0.8,4.061,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2027-04-01,1.838,0.77,4.386,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2027-05-01,1.745,0.693,4.393,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2027-06-01,1.717,0.648,4.548,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2027-07-01,1.508,0.542,4.192,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2027-08-01,1.48,0.509,4.306,False
+Onions (USD/KG),Bobonaro,Holt-Winters,2027-09-01,1.444,0.475,4.387,False
+Onions (USD/KG),Bobonaro,SARIMA,2026-10-01,1.518,0.996,2.312,False
+Onions (USD/KG),Bobonaro,SARIMA,2026-11-01,1.45,0.859,2.447,False
+Onions (USD/KG),Bobonaro,SARIMA,2026-12-01,1.439,0.783,2.645,False
+Onions (USD/KG),Bobonaro,SARIMA,2027-01-01,1.509,0.762,2.988,False
+Onions (USD/KG),Bobonaro,SARIMA,2027-02-01,1.625,0.767,3.442,False
+Onions (USD/KG),Bobonaro,SARIMA,2027-03-01,1.787,0.793,4.026,False
+Onions (USD/KG),Bobonaro,SARIMA,2027-04-01,1.83,0.767,4.366,False
+Onions (USD/KG),Bobonaro,SARIMA,2027-05-01,1.745,0.693,4.394,False
+Onions (USD/KG),Bobonaro,SARIMA,2027-06-01,1.735,0.655,4.597,False
+Onions (USD/KG),Bobonaro,SARIMA,2027-07-01,1.513,0.544,4.206,False
+Onions (USD/KG),Bobonaro,SARIMA,2027-08-01,1.466,0.504,4.266,False
+Onions (USD/KG),Bobonaro,SARIMA,2027-09-01,1.418,0.467,4.307,False
+Onions (USD/KG),Lautem,Holt-Winters,2025-10-01,1.898,1.566,2.301,True
+Onions (USD/KG),Lautem,Holt-Winters,2025-11-01,1.944,1.429,2.645,True
+Onions (USD/KG),Lautem,Holt-Winters,2025-12-01,1.918,1.298,2.833,True
+Onions (USD/KG),Lautem,Holt-Winters,2026-01-01,1.844,1.166,2.917,True
+Onions (USD/KG),Lautem,Holt-Winters,2026-02-01,2.106,1.255,3.533,True
+Onions (USD/KG),Lautem,Holt-Winters,2026-03-01,1.978,1.119,3.499,True
+Onions (USD/KG),Lautem,Holt-Winters,2026-04-01,2.088,1.124,3.876,True
+Onions (USD/KG),Lautem,Holt-Winters,2026-05-01,1.942,1.0,3.772,True
+Onions (USD/KG),Lautem,Holt-Winters,2026-06-01,2.1,1.037,4.253,True
+Onions (USD/KG),Lautem,Holt-Winters,2026-07-01,2.06,0.977,4.34,True
+Onions (USD/KG),Lautem,Holt-Winters,2026-08-01,1.963,0.897,4.296,True
+Onions (USD/KG),Lautem,Holt-Winters,2026-09-01,1.851,0.816,4.195,True
+Onions (USD/KG),Lautem,SARIMA,2025-10-01,1.817,1.499,2.204,False
+Onions (USD/KG),Lautem,SARIMA,2025-11-01,1.878,1.38,2.554,False
+Onions (USD/KG),Lautem,SARIMA,2025-12-01,1.857,1.257,2.744,False
+Onions (USD/KG),Lautem,SARIMA,2026-01-01,1.769,1.119,2.798,False
+Onions (USD/KG),Lautem,SARIMA,2026-02-01,2.012,1.2,3.375,False
+Onions (USD/KG),Lautem,SARIMA,2026-03-01,1.892,1.07,3.346,False
+Onions (USD/KG),Lautem,SARIMA,2026-04-01,1.989,1.072,3.693,False
+Onions (USD/KG),Lautem,SARIMA,2026-05-01,1.842,0.949,3.578,False
+Onions (USD/KG),Lautem,SARIMA,2026-06-01,1.971,0.973,3.991,False
+Onions (USD/KG),Lautem,SARIMA,2026-07-01,1.925,0.913,4.056,False
+Onions (USD/KG),Lautem,SARIMA,2026-08-01,1.827,0.835,3.997,False
+Onions (USD/KG),Lautem,SARIMA,2026-09-01,1.719,0.758,3.898,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-01-01,3.103,2.516,3.828,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-02-01,3.37,2.717,4.181,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-03-01,3.362,2.695,4.193,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-04-01,3.203,2.554,4.017,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-05-01,3.338,2.648,4.208,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-06-01,3.269,2.58,4.142,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-07-01,3.486,2.738,4.44,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-08-01,3.362,2.627,4.303,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-09-01,3.253,2.529,4.183,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-10-01,3.165,2.449,4.089,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-11-01,3.256,2.508,4.227,False
+Onions (USD/KG),Liquica,Holt-Winters,2026-12-01,3.215,2.465,4.192,False
+Onions (USD/KG),Liquica,SARIMA,2026-01-01,3.043,2.467,3.754,False
+Onions (USD/KG),Liquica,SARIMA,2026-02-01,3.25,2.62,4.031,False
+Onions (USD/KG),Liquica,SARIMA,2026-03-01,3.168,2.54,3.952,False
+Onions (USD/KG),Liquica,SARIMA,2026-04-01,2.822,2.25,3.539,False
+Onions (USD/KG),Liquica,SARIMA,2026-05-01,3.04,2.412,3.833,False
+Onions (USD/KG),Liquica,SARIMA,2026-06-01,2.757,2.176,3.494,False
+Onions (USD/KG),Liquica,SARIMA,2026-07-01,3.138,2.464,3.997,False
+Onions (USD/KG),Liquica,SARIMA,2026-08-01,3.04,2.375,3.891,False
+Onions (USD/KG),Liquica,SARIMA,2026-09-01,3.132,2.436,4.028,False
+Onions (USD/KG),Liquica,SARIMA,2026-10-01,2.965,2.294,3.831,False
+Onions (USD/KG),Liquica,SARIMA,2026-11-01,3.218,2.479,4.177,False
+Onions (USD/KG),Liquica,SARIMA,2026-12-01,3.169,2.43,4.133,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-03-01,2.602,1.491,4.542,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-04-01,2.274,1.272,4.066,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-05-01,2.783,1.521,5.093,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-06-01,2.599,1.389,4.864,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-07-01,2.727,1.426,5.214,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-08-01,2.387,1.223,4.661,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-09-01,2.671,1.341,5.322,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-10-01,2.711,1.334,5.507,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-11-01,2.464,1.19,5.103,False
+Onions (USD/KG),Manatuto,Holt-Winters,2026-12-01,2.095,0.993,4.42,False
+Onions (USD/KG),Manatuto,Holt-Winters,2027-01-01,2.702,1.258,5.805,False
+Onions (USD/KG),Manatuto,Holt-Winters,2027-02-01,2.64,1.207,5.773,False
+Onions (USD/KG),Manatuto,SARIMA,2026-03-01,2.918,1.672,5.094,False
+Onions (USD/KG),Manatuto,SARIMA,2026-04-01,1.666,0.932,2.979,False
+Onions (USD/KG),Manatuto,SARIMA,2026-05-01,3.287,1.796,6.016,False
+Onions (USD/KG),Manatuto,SARIMA,2026-06-01,2.004,1.071,3.75,False
+Onions (USD/KG),Manatuto,SARIMA,2026-07-01,2.735,1.431,5.23,False
+Onions (USD/KG),Manatuto,SARIMA,2026-08-01,1.564,0.801,3.053,False
+Onions (USD/KG),Manatuto,SARIMA,2026-09-01,1.992,1.0,3.968,False
+Onions (USD/KG),Manatuto,SARIMA,2026-10-01,2.088,1.028,4.243,False
+Onions (USD/KG),Manatuto,SARIMA,2026-11-01,2.014,0.973,4.172,False
+Onions (USD/KG),Manatuto,SARIMA,2026-12-01,1.137,0.539,2.399,False
+Onions (USD/KG),Manatuto,SARIMA,2027-01-01,2.698,1.256,5.798,False
+Onions (USD/KG),Manatuto,SARIMA,2027-02-01,2.75,1.258,6.015,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2026-10-01,1.382,0.925,2.066,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2026-11-01,1.511,0.974,2.344,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2026-12-01,1.437,0.895,2.307,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2027-01-01,1.342,0.81,2.226,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2027-02-01,1.54,0.901,2.631,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2027-03-01,1.522,0.866,2.676,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2027-04-01,1.515,0.839,2.737,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2027-05-01,1.63,0.879,3.022,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2027-06-01,1.607,0.845,3.054,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2027-07-01,1.741,0.894,3.389,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2027-08-01,1.599,0.803,3.184,False
+Potatoes (USD/KG),Bobonaro,Holt-Winters,2027-09-01,1.571,0.772,3.197,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2026-10-01,1.4,0.936,2.092,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2026-11-01,1.533,0.988,2.378,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2026-12-01,1.46,0.91,2.345,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2027-01-01,1.367,0.825,2.267,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2027-02-01,1.571,0.92,2.684,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2027-03-01,1.556,0.885,2.735,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2027-04-01,1.552,0.859,2.804,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2027-05-01,1.672,0.902,3.101,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2027-06-01,1.579,0.831,3.002,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2027-07-01,1.842,0.946,3.587,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2027-08-01,1.696,0.852,3.377,False
+Potatoes (USD/KG),Bobonaro,SARIMA,2027-09-01,1.669,0.82,3.398,False
+Potatoes (USD/KG),Lautem,Holt-Winters,2025-10-01,1.107,0.724,1.692,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2025-11-01,1.117,0.659,1.894,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2025-12-01,1.128,0.61,2.085,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2026-01-01,1.176,0.59,2.344,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2026-02-01,1.156,0.541,2.467,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2026-03-01,1.144,0.503,2.601,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2026-04-01,1.161,0.482,2.798,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2026-05-01,1.144,0.45,2.91,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2026-06-01,1.261,0.471,3.377,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2026-07-01,1.005,0.357,2.827,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2026-08-01,0.924,0.313,2.723,True
+Potatoes (USD/KG),Lautem,Holt-Winters,2026-09-01,1.078,0.35,3.319,True
+Potatoes (USD/KG),Lautem,SARIMA,2025-10-01,1.166,0.763,1.782,False
+Potatoes (USD/KG),Lautem,SARIMA,2025-11-01,1.175,0.693,1.993,False
+Potatoes (USD/KG),Lautem,SARIMA,2025-12-01,1.185,0.641,2.19,False
+Potatoes (USD/KG),Lautem,SARIMA,2026-01-01,1.233,0.618,2.459,False
+Potatoes (USD/KG),Lautem,SARIMA,2026-02-01,1.211,0.567,2.585,False
+Potatoes (USD/KG),Lautem,SARIMA,2026-03-01,1.197,0.527,2.722,False
+Potatoes (USD/KG),Lautem,SARIMA,2026-04-01,1.214,0.504,2.924,False
+Potatoes (USD/KG),Lautem,SARIMA,2026-05-01,1.194,0.47,3.038,False
+Potatoes (USD/KG),Lautem,SARIMA,2026-06-01,1.315,0.491,3.522,False
+Potatoes (USD/KG),Lautem,SARIMA,2026-07-01,1.047,0.372,2.944,False
+Potatoes (USD/KG),Lautem,SARIMA,2026-08-01,0.966,0.328,2.848,False
+Potatoes (USD/KG),Lautem,SARIMA,2026-09-01,1.126,0.366,3.465,False
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-03-01,1.814,1.149,2.864,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-04-01,2.036,1.182,3.504,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-05-01,2.255,1.216,4.183,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-06-01,2.24,1.131,4.438,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-07-01,2.357,1.121,4.953,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-08-01,2.159,0.973,4.793,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-09-01,2.02,0.864,4.718,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-10-01,2.008,0.819,4.922,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-11-01,2.496,0.973,6.406,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2026-12-01,2.25,0.839,6.033,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2027-01-01,1.937,0.693,5.415,True
+Potatoes (USD/KG),Manatuto,Holt-Winters,2027-02-01,1.717,0.59,4.996,True
+Potatoes (USD/KG),Manatuto,SARIMA,2026-03-01,1.765,1.118,2.787,False
+Potatoes (USD/KG),Manatuto,SARIMA,2026-04-01,1.984,1.152,3.416,False
+Potatoes (USD/KG),Manatuto,SARIMA,2026-05-01,2.199,1.186,4.079,False
+Potatoes (USD/KG),Manatuto,SARIMA,2026-06-01,2.2,1.11,4.358,False
+Potatoes (USD/KG),Manatuto,SARIMA,2026-07-01,2.318,1.103,4.872,False
+Potatoes (USD/KG),Manatuto,SARIMA,2026-08-01,2.128,0.958,4.723,False
+Potatoes (USD/KG),Manatuto,SARIMA,2026-09-01,1.993,0.853,4.656,False
+Potatoes (USD/KG),Manatuto,SARIMA,2026-10-01,1.985,0.81,4.866,False
+Potatoes (USD/KG),Manatuto,SARIMA,2026-11-01,2.472,0.963,6.343,False
+Potatoes (USD/KG),Manatuto,SARIMA,2026-12-01,2.232,0.833,5.984,False
+Potatoes (USD/KG),Manatuto,SARIMA,2027-01-01,1.924,0.688,5.379,False
+Potatoes (USD/KG),Manatuto,SARIMA,2027-02-01,1.709,0.587,4.972,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2026-10-01,0.554,0.463,0.663,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2026-11-01,0.601,0.49,0.737,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2026-12-01,0.588,0.469,0.738,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2027-01-01,0.596,0.466,0.763,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2027-02-01,0.613,0.47,0.8,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2027-03-01,0.628,0.474,0.834,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2027-04-01,0.618,0.458,0.834,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2027-05-01,0.643,0.469,0.881,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2027-06-01,0.616,0.443,0.857,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2027-07-01,0.601,0.426,0.848,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2027-08-01,0.603,0.422,0.862,False
+"Rice (white, imported) (USD/KG)",Bobonaro,Holt-Winters,2027-09-01,0.593,0.41,0.86,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2026-10-01,0.582,0.486,0.696,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2026-11-01,0.602,0.491,0.739,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2026-12-01,0.593,0.473,0.743,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2027-01-01,0.598,0.467,0.766,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2027-02-01,0.61,0.468,0.796,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2027-03-01,0.615,0.464,0.817,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2027-04-01,0.614,0.455,0.828,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2027-05-01,0.679,0.495,0.93,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2027-06-01,0.611,0.439,0.85,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2027-07-01,0.568,0.402,0.801,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2027-08-01,0.571,0.399,0.817,False
+"Rice (white, imported) (USD/KG)",Bobonaro,SARIMA,2027-09-01,0.578,0.399,0.837,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2025-10-01,0.74,0.667,0.82,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2025-11-01,0.733,0.637,0.843,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2025-12-01,0.74,0.626,0.876,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2026-01-01,0.737,0.608,0.894,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2026-02-01,0.728,0.587,0.902,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2026-03-01,0.743,0.588,0.939,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2026-04-01,0.737,0.573,0.949,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2026-05-01,0.765,0.585,1.002,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2026-06-01,0.728,0.547,0.968,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2026-07-01,0.75,0.555,1.012,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2026-08-01,0.771,0.563,1.056,False
+"Rice (white, imported) (USD/KG)",Lautem,Holt-Winters,2026-09-01,0.759,0.547,1.054,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2025-10-01,0.742,0.669,0.823,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2025-11-01,0.737,0.641,0.848,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2025-12-01,0.747,0.632,0.884,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2026-01-01,0.746,0.615,0.905,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2026-02-01,0.739,0.596,0.916,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2026-03-01,0.756,0.598,0.956,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2026-04-01,0.753,0.585,0.969,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2026-05-01,0.783,0.598,1.025,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2026-06-01,0.747,0.562,0.993,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2026-07-01,0.771,0.571,1.041,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2026-08-01,0.797,0.582,1.092,False
+"Rice (white, imported) (USD/KG)",Lautem,SARIMA,2026-09-01,0.788,0.568,1.094,False
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-01-01,0.549,0.495,0.608,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-02-01,0.539,0.468,0.619,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-03-01,0.541,0.457,0.64,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-04-01,0.534,0.441,0.647,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-05-01,0.545,0.44,0.675,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-06-01,0.541,0.429,0.684,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-07-01,0.547,0.426,0.704,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-08-01,0.554,0.424,0.724,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-09-01,0.551,0.415,0.732,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-10-01,0.551,0.409,0.744,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-11-01,0.541,0.396,0.74,True
+"Rice (white, imported) (USD/KG)",Liquica,Holt-Winters,2026-12-01,0.565,0.407,0.783,True
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-01-01,0.557,0.502,0.617,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-02-01,0.538,0.468,0.618,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-03-01,0.55,0.465,0.65,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-04-01,0.531,0.438,0.644,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-05-01,0.551,0.445,0.682,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-06-01,0.539,0.427,0.681,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-07-01,0.565,0.44,0.727,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-08-01,0.573,0.438,0.749,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-09-01,0.562,0.423,0.746,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-10-01,0.562,0.417,0.757,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-11-01,0.521,0.381,0.713,False
+"Rice (white, imported) (USD/KG)",Liquica,SARIMA,2026-12-01,0.539,0.389,0.748,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2026-04-01,0.806,0.722,0.9,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2026-05-01,0.805,0.707,0.916,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2026-06-01,0.802,0.693,0.927,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2026-07-01,0.822,0.701,0.965,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2026-08-01,0.798,0.672,0.949,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2026-09-01,0.83,0.689,0.999,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2026-10-01,0.803,0.66,0.978,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2026-11-01,0.828,0.673,1.019,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2026-12-01,0.813,0.654,1.011,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2027-01-01,0.835,0.665,1.049,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2027-02-01,0.855,0.674,1.084,False
+"Rice (white, imported) (USD/KG)",Manatuto,Holt-Winters,2027-03-01,0.827,0.646,1.058,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2026-04-01,0.807,0.722,0.901,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2026-05-01,0.803,0.706,0.914,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2026-06-01,0.794,0.687,0.918,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2026-07-01,0.825,0.703,0.968,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2026-08-01,0.791,0.666,0.941,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2026-09-01,0.835,0.694,1.005,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2026-10-01,0.807,0.663,0.983,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2026-11-01,0.836,0.679,1.029,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2026-12-01,0.825,0.663,1.026,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2027-01-01,0.848,0.675,1.065,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2027-02-01,0.879,0.694,1.115,False
+"Rice (white, imported) (USD/KG)",Manatuto,SARIMA,2027-03-01,0.832,0.65,1.064,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2025-10-01,1.844,1.35,2.519,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2025-11-01,1.941,1.395,2.701,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2025-12-01,1.843,1.302,2.609,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2026-01-01,2.14,1.486,3.08,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2026-02-01,2.013,1.376,2.944,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2026-03-01,2.087,1.405,3.1,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2026-04-01,2.054,1.363,3.095,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2026-05-01,2.067,1.352,3.159,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2026-06-01,2.178,1.406,3.376,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2026-07-01,2.057,1.31,3.231,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2026-08-01,2.067,1.299,3.291,False
+"Rice (white, local) (USD/KG)",Lautem,Holt-Winters,2026-09-01,1.855,1.151,2.99,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2025-10-01,1.876,1.374,2.563,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2025-11-01,1.977,1.421,2.751,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2025-12-01,1.879,1.327,2.66,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2026-01-01,2.183,1.516,3.143,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2026-02-01,2.055,1.405,3.006,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2026-03-01,2.133,1.436,3.168,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2026-04-01,2.101,1.394,3.166,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2026-05-01,2.116,1.384,3.234,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2026-06-01,2.232,1.44,3.459,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2026-07-01,2.045,1.302,3.212,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2026-08-01,2.124,1.335,3.382,False
+"Rice (white, local) (USD/KG)",Lautem,SARIMA,2026-09-01,1.908,1.184,3.075,False
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-01-01,2.773,2.012,3.821,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-02-01,2.629,1.86,3.715,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-03-01,2.862,1.979,4.141,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-04-01,2.794,1.889,4.132,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-05-01,3.033,2.009,4.58,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-06-01,3.097,2.01,4.77,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-07-01,2.984,1.903,4.681,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-08-01,2.742,1.717,4.377,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-09-01,2.979,1.835,4.838,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-10-01,2.849,1.726,4.704,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-11-01,2.931,1.747,4.917,True
+"Rice (white, local) (USD/KG)",Liquica,Holt-Winters,2026-12-01,2.854,1.675,4.863,True
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-01-01,2.754,1.998,3.795,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-02-01,2.617,1.852,3.699,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-03-01,2.857,1.975,4.133,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-04-01,2.795,1.89,4.134,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-05-01,3.042,2.014,4.593,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-06-01,3.041,1.974,4.684,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-07-01,3.085,1.967,4.838,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-08-01,2.842,1.78,4.537,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-09-01,3.096,1.906,5.028,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-10-01,2.969,1.798,4.901,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-11-01,3.062,1.825,5.137,False
+"Rice (white, local) (USD/KG)",Liquica,SARIMA,2026-12-01,2.989,1.754,5.094,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-03-01,1.729,1.316,2.272,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-04-01,1.78,1.271,2.492,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-05-01,1.871,1.267,2.763,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-06-01,1.947,1.258,3.012,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-07-01,1.743,1.081,2.81,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-08-01,1.674,0.999,2.805,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-09-01,1.742,1.003,3.023,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-10-01,1.814,1.011,3.255,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-11-01,1.864,1.006,3.452,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2026-12-01,1.759,0.922,3.358,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2027-01-01,1.839,0.937,3.613,False
+"Rice (white, local) (USD/KG)",Manatuto,Holt-Winters,2027-02-01,1.745,0.864,3.522,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-03-01,1.735,1.32,2.28,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-04-01,1.787,1.276,2.501,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-05-01,1.882,1.275,2.779,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-06-01,2.005,1.296,3.103,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-07-01,1.782,1.105,2.873,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-08-01,1.704,1.017,2.855,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-09-01,1.751,1.009,3.04,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-10-01,1.827,1.018,3.279,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-11-01,1.894,1.023,3.509,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2026-12-01,1.775,0.93,3.387,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2027-01-01,1.876,0.955,3.684,False
+"Rice (white, local) (USD/KG)",Manatuto,SARIMA,2027-02-01,1.786,0.885,3.605,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2026-10-01,0.527,0.469,0.592,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2026-11-01,0.504,0.448,0.567,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2026-12-01,0.485,0.43,0.547,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2027-01-01,0.491,0.435,0.554,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2027-02-01,0.492,0.436,0.556,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2027-03-01,0.483,0.427,0.546,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2027-04-01,0.503,0.444,0.569,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2027-05-01,0.488,0.43,0.553,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2027-06-01,0.482,0.425,0.547,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2027-07-01,0.487,0.429,0.553,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2027-08-01,0.509,0.448,0.579,False
+Salt (USD/KG),Bobonaro,Holt-Winters,2027-09-01,0.498,0.437,0.566,False
+Salt (USD/KG),Bobonaro,SARIMA,2026-10-01,0.497,0.442,0.558,False
+Salt (USD/KG),Bobonaro,SARIMA,2026-11-01,0.494,0.439,0.556,False
+Salt (USD/KG),Bobonaro,SARIMA,2026-12-01,0.493,0.437,0.555,False
+Salt (USD/KG),Bobonaro,SARIMA,2027-01-01,0.498,0.441,0.561,False
+Salt (USD/KG),Bobonaro,SARIMA,2027-02-01,0.495,0.438,0.559,False
+Salt (USD/KG),Bobonaro,SARIMA,2027-03-01,0.493,0.436,0.557,False
+Salt (USD/KG),Bobonaro,SARIMA,2027-04-01,0.493,0.436,0.558,False
+Salt (USD/KG),Bobonaro,SARIMA,2027-05-01,0.493,0.435,0.558,False
+Salt (USD/KG),Bobonaro,SARIMA,2027-06-01,0.493,0.435,0.56,False
+Salt (USD/KG),Bobonaro,SARIMA,2027-07-01,0.493,0.434,0.559,False
+Salt (USD/KG),Bobonaro,SARIMA,2027-08-01,0.495,0.435,0.562,False
+Salt (USD/KG),Bobonaro,SARIMA,2027-09-01,0.495,0.435,0.563,False
+Salt (USD/KG),Lautem,Holt-Winters,2025-10-01,0.497,0.47,0.525,False
+Salt (USD/KG),Lautem,Holt-Winters,2025-11-01,0.501,0.46,0.545,False
+Salt (USD/KG),Lautem,Holt-Winters,2025-12-01,0.498,0.447,0.554,False
+Salt (USD/KG),Lautem,Holt-Winters,2026-01-01,0.506,0.447,0.574,False
+Salt (USD/KG),Lautem,Holt-Winters,2026-02-01,0.493,0.428,0.568,False
+Salt (USD/KG),Lautem,Holt-Winters,2026-03-01,0.492,0.421,0.575,False
+Salt (USD/KG),Lautem,Holt-Winters,2026-04-01,0.487,0.412,0.576,False
+Salt (USD/KG),Lautem,Holt-Winters,2026-05-01,0.493,0.411,0.59,False
+Salt (USD/KG),Lautem,Holt-Winters,2026-06-01,0.495,0.409,0.599,False
+Salt (USD/KG),Lautem,Holt-Winters,2026-07-01,0.492,0.402,0.602,False
+Salt (USD/KG),Lautem,Holt-Winters,2026-08-01,0.49,0.396,0.605,False
+Salt (USD/KG),Lautem,Holt-Winters,2026-09-01,0.487,0.39,0.608,False
+Salt (USD/KG),Lautem,SARIMA,2025-10-01,0.497,0.471,0.525,False
+Salt (USD/KG),Lautem,SARIMA,2025-11-01,0.5,0.46,0.545,False
+Salt (USD/KG),Lautem,SARIMA,2025-12-01,0.497,0.447,0.553,False
+Salt (USD/KG),Lautem,SARIMA,2026-01-01,0.505,0.446,0.573,False
+Salt (USD/KG),Lautem,SARIMA,2026-02-01,0.492,0.427,0.566,False
+Salt (USD/KG),Lautem,SARIMA,2026-03-01,0.49,0.42,0.573,False
+Salt (USD/KG),Lautem,SARIMA,2026-04-01,0.485,0.41,0.574,False
+Salt (USD/KG),Lautem,SARIMA,2026-05-01,0.49,0.409,0.587,False
+Salt (USD/KG),Lautem,SARIMA,2026-06-01,0.492,0.406,0.596,False
+Salt (USD/KG),Lautem,SARIMA,2026-07-01,0.489,0.4,0.599,False
+Salt (USD/KG),Lautem,SARIMA,2026-08-01,0.486,0.393,0.601,False
+Salt (USD/KG),Lautem,SARIMA,2026-09-01,0.483,0.387,0.603,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-01-01,0.502,0.465,0.542,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-02-01,0.499,0.461,0.54,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-03-01,0.496,0.458,0.537,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-04-01,0.498,0.459,0.54,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-05-01,0.491,0.452,0.533,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-06-01,0.49,0.451,0.532,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-07-01,0.49,0.451,0.534,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-08-01,0.492,0.452,0.536,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-09-01,0.492,0.451,0.537,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-10-01,0.486,0.445,0.531,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-11-01,0.489,0.447,0.534,False
+Salt (USD/KG),Liquica,Holt-Winters,2026-12-01,0.492,0.449,0.538,False
+Salt (USD/KG),Liquica,SARIMA,2026-01-01,0.504,0.467,0.545,False
+Salt (USD/KG),Liquica,SARIMA,2026-02-01,0.501,0.463,0.541,False
+Salt (USD/KG),Liquica,SARIMA,2026-03-01,0.497,0.459,0.539,False
+Salt (USD/KG),Liquica,SARIMA,2026-04-01,0.495,0.457,0.537,False
+Salt (USD/KG),Liquica,SARIMA,2026-05-01,0.499,0.46,0.542,False
+Salt (USD/KG),Liquica,SARIMA,2026-06-01,0.492,0.453,0.535,False
+Salt (USD/KG),Liquica,SARIMA,2026-07-01,0.491,0.451,0.534,False
+Salt (USD/KG),Liquica,SARIMA,2026-08-01,0.492,0.451,0.536,False
+Salt (USD/KG),Liquica,SARIMA,2026-09-01,0.491,0.45,0.536,False
+Salt (USD/KG),Liquica,SARIMA,2026-10-01,0.486,0.445,0.531,False
+Salt (USD/KG),Liquica,SARIMA,2026-11-01,0.488,0.446,0.533,False
+Salt (USD/KG),Liquica,SARIMA,2026-12-01,0.49,0.448,0.536,False
+Salt (USD/KG),Manatuto,Holt-Winters,2026-04-01,0.634,0.529,0.76,False
+Salt (USD/KG),Manatuto,Holt-Winters,2026-05-01,0.6,0.501,0.719,False
+Salt (USD/KG),Manatuto,Holt-Winters,2026-06-01,0.605,0.505,0.725,False
+Salt (USD/KG),Manatuto,Holt-Winters,2026-07-01,0.626,0.522,0.749,False
+Salt (USD/KG),Manatuto,Holt-Winters,2026-08-01,0.606,0.506,0.726,False
+Salt (USD/KG),Manatuto,Holt-Winters,2026-09-01,0.6,0.501,0.719,False
+Salt (USD/KG),Manatuto,Holt-Winters,2026-10-01,0.685,0.572,0.821,False
+Salt (USD/KG),Manatuto,Holt-Winters,2026-11-01,0.6,0.501,0.719,False
+Salt (USD/KG),Manatuto,Holt-Winters,2026-12-01,0.6,0.501,0.719,False
+Salt (USD/KG),Manatuto,Holt-Winters,2027-01-01,0.606,0.506,0.726,False
+Salt (USD/KG),Manatuto,Holt-Winters,2027-02-01,0.586,0.489,0.702,False
+Salt (USD/KG),Manatuto,Holt-Winters,2027-03-01,0.576,0.481,0.69,False
+Salt (USD/KG),Manatuto,SARIMA,2026-04-01,0.592,0.494,0.709,False
+Salt (USD/KG),Manatuto,SARIMA,2026-05-01,0.583,0.486,0.698,False
+Salt (USD/KG),Manatuto,SARIMA,2026-06-01,0.596,0.497,0.714,False
+Salt (USD/KG),Manatuto,SARIMA,2026-07-01,0.598,0.5,0.717,False
+Salt (USD/KG),Manatuto,SARIMA,2026-08-01,0.585,0.489,0.701,False
+Salt (USD/KG),Manatuto,SARIMA,2026-09-01,0.581,0.485,0.696,False
+Salt (USD/KG),Manatuto,SARIMA,2026-10-01,0.62,0.517,0.743,False
+Salt (USD/KG),Manatuto,SARIMA,2026-11-01,0.576,0.481,0.69,False
+Salt (USD/KG),Manatuto,SARIMA,2026-12-01,0.572,0.477,0.685,False
+Salt (USD/KG),Manatuto,SARIMA,2027-01-01,0.586,0.489,0.702,False
+Salt (USD/KG),Manatuto,SARIMA,2027-02-01,0.566,0.472,0.678,False
+Salt (USD/KG),Manatuto,SARIMA,2027-03-01,0.537,0.448,0.643,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2026-10-01,1.539,1.187,1.995,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2026-11-01,1.358,1.012,1.822,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2026-12-01,1.545,1.117,2.138,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2027-01-01,1.56,1.097,2.22,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2027-02-01,1.626,1.113,2.374,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2027-03-01,1.578,1.055,2.361,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2027-04-01,1.568,1.025,2.401,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2027-05-01,1.57,1.003,2.455,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2027-06-01,1.548,0.969,2.472,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2027-07-01,1.565,0.96,2.549,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2027-08-01,1.573,0.948,2.61,False
+Sugar (USD/KG),Bobonaro,Holt-Winters,2027-09-01,1.551,0.918,2.621,False
+Sugar (USD/KG),Bobonaro,SARIMA,2026-10-01,1.545,1.192,2.004,False
+Sugar (USD/KG),Bobonaro,SARIMA,2026-11-01,1.368,1.019,1.835,False
+Sugar (USD/KG),Bobonaro,SARIMA,2026-12-01,1.561,1.128,2.16,False
+Sugar (USD/KG),Bobonaro,SARIMA,2027-01-01,1.581,1.111,2.249,False
+Sugar (USD/KG),Bobonaro,SARIMA,2027-02-01,1.651,1.131,2.412,False
+Sugar (USD/KG),Bobonaro,SARIMA,2027-03-01,1.608,1.075,2.405,False
+Sugar (USD/KG),Bobonaro,SARIMA,2027-04-01,1.602,1.047,2.453,False
+Sugar (USD/KG),Bobonaro,SARIMA,2027-05-01,1.608,1.028,2.515,False
+Sugar (USD/KG),Bobonaro,SARIMA,2027-06-01,1.601,1.002,2.557,False
+Sugar (USD/KG),Bobonaro,SARIMA,2027-07-01,1.597,0.98,2.602,False
+Sugar (USD/KG),Bobonaro,SARIMA,2027-08-01,1.611,0.971,2.674,False
+Sugar (USD/KG),Bobonaro,SARIMA,2027-09-01,1.594,0.943,2.693,False
+Sugar (USD/KG),Lautem,Holt-Winters,2025-10-01,1.296,1.084,1.55,False
+Sugar (USD/KG),Lautem,Holt-Winters,2025-11-01,1.274,0.979,1.658,False
+Sugar (USD/KG),Lautem,Holt-Winters,2025-12-01,1.249,0.901,1.73,False
+Sugar (USD/KG),Lautem,Holt-Winters,2026-01-01,1.297,0.887,1.894,False
+Sugar (USD/KG),Lautem,Holt-Winters,2026-02-01,1.283,0.838,1.963,False
+Sugar (USD/KG),Lautem,Holt-Winters,2026-03-01,1.401,0.878,2.236,False
+Sugar (USD/KG),Lautem,Holt-Winters,2026-04-01,1.37,0.827,2.271,False
+Sugar (USD/KG),Lautem,Holt-Winters,2026-05-01,1.358,0.791,2.333,False
+Sugar (USD/KG),Lautem,Holt-Winters,2026-06-01,1.373,0.773,2.438,False
+Sugar (USD/KG),Lautem,Holt-Winters,2026-07-01,1.36,0.742,2.493,False
+Sugar (USD/KG),Lautem,Holt-Winters,2026-08-01,1.343,0.711,2.536,False
+Sugar (USD/KG),Lautem,Holt-Winters,2026-09-01,1.352,0.696,2.626,False
+Sugar (USD/KG),Lautem,SARIMA,2025-10-01,1.3,1.087,1.555,False
+Sugar (USD/KG),Lautem,SARIMA,2025-11-01,1.279,0.983,1.664,False
+Sugar (USD/KG),Lautem,SARIMA,2025-12-01,1.255,0.906,1.74,False
+Sugar (USD/KG),Lautem,SARIMA,2026-01-01,1.307,0.895,1.91,False
+Sugar (USD/KG),Lautem,SARIMA,2026-02-01,1.298,0.848,1.986,False
+Sugar (USD/KG),Lautem,SARIMA,2026-03-01,1.423,0.892,2.271,False
+Sugar (USD/KG),Lautem,SARIMA,2026-04-01,1.398,0.843,2.318,False
+Sugar (USD/KG),Lautem,SARIMA,2026-05-01,1.393,0.811,2.392,False
+Sugar (USD/KG),Lautem,SARIMA,2026-06-01,1.415,0.797,2.513,False
+Sugar (USD/KG),Lautem,SARIMA,2026-07-01,1.408,0.768,2.581,False
+Sugar (USD/KG),Lautem,SARIMA,2026-08-01,1.4,0.741,2.644,False
+Sugar (USD/KG),Lautem,SARIMA,2026-09-01,1.416,0.729,2.75,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-01-01,1.123,0.83,1.518,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-02-01,1.011,0.67,1.525,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-03-01,1.075,0.654,1.767,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-04-01,1.084,0.613,1.916,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-05-01,1.082,0.574,2.041,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-06-01,1.086,0.543,2.172,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-07-01,1.063,0.504,2.241,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-08-01,1.026,0.463,2.271,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-09-01,1.03,0.444,2.388,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-10-01,1.034,0.427,2.506,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-11-01,1.042,0.412,2.631,False
+Sugar (USD/KG),Liquica,Holt-Winters,2026-12-01,1.029,0.391,2.706,False
+Sugar (USD/KG),Liquica,SARIMA,2026-01-01,1.123,0.831,1.518,False
+Sugar (USD/KG),Liquica,SARIMA,2026-02-01,1.012,0.671,1.526,False
+Sugar (USD/KG),Liquica,SARIMA,2026-03-01,1.076,0.655,1.767,False
+Sugar (USD/KG),Liquica,SARIMA,2026-04-01,1.084,0.613,1.917,False
+Sugar (USD/KG),Liquica,SARIMA,2026-05-01,1.082,0.574,2.04,False
+Sugar (USD/KG),Liquica,SARIMA,2026-06-01,1.093,0.546,2.185,False
+Sugar (USD/KG),Liquica,SARIMA,2026-07-01,1.071,0.508,2.257,False
+Sugar (USD/KG),Liquica,SARIMA,2026-08-01,1.035,0.467,2.291,False
+Sugar (USD/KG),Liquica,SARIMA,2026-09-01,1.04,0.449,2.411,False
+Sugar (USD/KG),Liquica,SARIMA,2026-10-01,1.045,0.431,2.533,False
+Sugar (USD/KG),Liquica,SARIMA,2026-11-01,1.053,0.417,2.661,False
+Sugar (USD/KG),Liquica,SARIMA,2026-12-01,1.042,0.396,2.739,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2026-04-01,1.212,0.946,1.551,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2026-05-01,1.255,0.843,1.869,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2026-06-01,1.226,0.739,2.033,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2026-07-01,1.229,0.68,2.222,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2026-08-01,1.252,0.642,2.441,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2026-09-01,1.247,0.598,2.601,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2026-10-01,1.21,0.545,2.685,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2026-11-01,1.163,0.495,2.735,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2026-12-01,1.174,0.473,2.912,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2027-01-01,1.321,0.506,3.449,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2027-02-01,1.373,0.501,3.76,False
+Sugar (USD/KG),Manatuto,Holt-Winters,2027-03-01,1.218,0.425,3.494,False
+Sugar (USD/KG),Manatuto,SARIMA,2026-04-01,1.112,0.869,1.424,True
+Sugar (USD/KG),Manatuto,SARIMA,2026-05-01,1.154,0.775,1.718,True
+Sugar (USD/KG),Manatuto,SARIMA,2026-06-01,1.124,0.678,1.865,True
+Sugar (USD/KG),Manatuto,SARIMA,2026-07-01,1.13,0.625,2.043,True
+Sugar (USD/KG),Manatuto,SARIMA,2026-08-01,1.154,0.592,2.249,True
+Sugar (USD/KG),Manatuto,SARIMA,2026-09-01,1.151,0.552,2.402,True
+Sugar (USD/KG),Manatuto,SARIMA,2026-10-01,1.119,0.504,2.484,True
+Sugar (USD/KG),Manatuto,SARIMA,2026-11-01,1.078,0.459,2.535,True
+Sugar (USD/KG),Manatuto,SARIMA,2026-12-01,1.09,0.439,2.704,True
+Sugar (USD/KG),Manatuto,SARIMA,2027-01-01,1.229,0.471,3.209,True
+Sugar (USD/KG),Manatuto,SARIMA,2027-02-01,1.279,0.467,3.505,True
+Sugar (USD/KG),Manatuto,SARIMA,2027-03-01,1.138,0.397,3.263,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2026-10-01,1.088,0.702,1.686,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2026-11-01,1.086,0.681,1.732,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2026-12-01,1.126,0.687,1.846,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2027-01-01,1.13,0.672,1.9,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2027-02-01,1.17,0.679,2.016,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2027-03-01,1.054,0.598,1.86,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2027-04-01,1.146,0.635,2.068,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2027-05-01,1.154,0.626,2.127,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2027-06-01,1.085,0.576,2.042,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2027-07-01,1.084,0.564,2.082,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2027-08-01,1.134,0.579,2.22,True
+Sweet potatoes (USD/KG),Bobonaro,Holt-Winters,2027-09-01,1.254,0.629,2.502,True
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2026-10-01,1.023,0.66,1.585,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2026-11-01,1.008,0.632,1.607,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2026-12-01,1.033,0.63,1.692,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2027-01-01,1.025,0.609,1.723,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2027-02-01,1.05,0.609,1.809,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2027-03-01,0.937,0.531,1.653,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2027-04-01,1.01,0.56,1.822,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2027-05-01,1.009,0.547,1.859,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2027-06-01,0.965,0.513,1.817,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2027-07-01,0.941,0.49,1.807,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2027-08-01,0.97,0.495,1.899,False
+Sweet potatoes (USD/KG),Bobonaro,SARIMA,2027-09-01,1.058,0.531,2.112,False
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2025-10-01,0.775,0.521,1.154,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2025-11-01,0.934,0.572,1.527,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2025-12-01,1.01,0.571,1.785,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2026-01-01,0.989,0.522,1.874,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2026-02-01,0.991,0.492,1.996,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2026-03-01,0.961,0.45,2.05,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2026-04-01,0.923,0.41,2.077,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2026-05-01,0.894,0.378,2.114,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2026-06-01,0.844,0.34,2.091,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2026-07-01,0.845,0.326,2.189,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2026-08-01,0.804,0.297,2.176,True
+Sweet potatoes (USD/KG),Lautem,Holt-Winters,2026-09-01,0.77,0.273,2.17,True
+Sweet potatoes (USD/KG),Lautem,SARIMA,2025-10-01,0.77,0.517,1.145,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2025-11-01,0.913,0.559,1.492,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2025-12-01,0.927,0.524,1.638,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2026-01-01,0.986,0.521,1.867,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2026-02-01,0.963,0.478,1.94,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2026-03-01,0.951,0.446,2.028,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2026-04-01,0.906,0.403,2.039,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2026-05-01,0.876,0.37,2.071,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2026-06-01,0.824,0.332,2.042,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2026-07-01,0.827,0.319,2.144,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2026-08-01,0.809,0.299,2.188,False
+Sweet potatoes (USD/KG),Lautem,SARIMA,2026-09-01,0.754,0.268,2.127,False
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-01-01,1.528,0.889,2.627,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-02-01,1.41,0.771,2.58,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-03-01,1.587,0.82,3.074,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-04-01,1.623,0.796,3.311,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-05-01,1.509,0.705,3.231,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-06-01,1.635,0.729,3.664,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-07-01,1.787,0.764,4.177,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-08-01,1.579,0.649,3.843,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-09-01,1.369,0.541,3.462,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-10-01,1.601,0.61,4.201,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-11-01,1.647,0.606,4.477,True
+Sweet potatoes (USD/KG),Liquica,Holt-Winters,2026-12-01,1.725,0.613,4.851,True
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-01-01,1.495,0.87,2.569,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-02-01,1.386,0.758,2.537,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-03-01,1.57,0.811,3.039,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-04-01,1.614,0.791,3.293,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-05-01,1.51,0.705,3.235,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-06-01,1.633,0.728,3.659,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-07-01,1.847,0.79,4.319,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-08-01,1.632,0.671,3.971,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-09-01,1.416,0.56,3.581,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-10-01,1.66,0.633,4.354,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-11-01,1.712,0.63,4.653,False
+Sweet potatoes (USD/KG),Liquica,SARIMA,2026-12-01,1.799,0.64,5.059,False
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-03-01,0.912,0.569,1.46,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-04-01,0.868,0.538,1.402,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-05-01,0.951,0.585,1.546,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-06-01,0.853,0.523,1.393,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-07-01,0.845,0.514,1.388,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-08-01,0.863,0.522,1.428,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-09-01,0.761,0.457,1.268,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-10-01,0.82,0.489,1.375,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-11-01,1.05,0.622,1.772,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2026-12-01,0.904,0.532,1.536,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2027-01-01,0.864,0.505,1.477,True
+Sweet potatoes (USD/KG),Manatuto,Holt-Winters,2027-02-01,0.888,0.516,1.528,True
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-03-01,0.907,0.566,1.452,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-04-01,0.863,0.535,1.393,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-05-01,0.933,0.574,1.516,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-06-01,0.86,0.527,1.404,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-07-01,0.848,0.516,1.394,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-08-01,0.863,0.522,1.428,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-09-01,0.759,0.456,1.265,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-10-01,0.816,0.487,1.369,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-11-01,1.043,0.618,1.761,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2026-12-01,0.897,0.528,1.523,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2027-01-01,0.856,0.501,1.464,False
+Sweet potatoes (USD/KG),Manatuto,SARIMA,2027-02-01,0.879,0.511,1.512,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2026-10-01,0.932,0.613,1.417,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2026-11-01,0.973,0.626,1.513,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2026-12-01,0.986,0.621,1.565,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2027-01-01,1.17,0.722,1.894,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2027-02-01,1.032,0.625,1.704,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2027-03-01,0.951,0.565,1.6,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2027-04-01,0.966,0.564,1.655,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2027-05-01,1.018,0.584,1.773,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2027-06-01,0.957,0.54,1.696,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2027-07-01,0.909,0.504,1.636,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2027-08-01,0.979,0.535,1.79,False
+Taro (USD/KG),Bobonaro,Holt-Winters,2027-09-01,0.964,0.519,1.791,False
+Taro (USD/KG),Bobonaro,SARIMA,2026-10-01,0.954,0.627,1.45,False
+Taro (USD/KG),Bobonaro,SARIMA,2026-11-01,0.98,0.631,1.524,False
+Taro (USD/KG),Bobonaro,SARIMA,2026-12-01,0.978,0.616,1.553,False
+Taro (USD/KG),Bobonaro,SARIMA,2027-01-01,1.145,0.707,1.854,False
+Taro (USD/KG),Bobonaro,SARIMA,2027-02-01,0.997,0.604,1.646,False
+Taro (USD/KG),Bobonaro,SARIMA,2027-03-01,0.908,0.54,1.528,False
+Taro (USD/KG),Bobonaro,SARIMA,2027-04-01,0.913,0.533,1.564,False
+Taro (USD/KG),Bobonaro,SARIMA,2027-05-01,0.952,0.546,1.659,False
+Taro (USD/KG),Bobonaro,SARIMA,2027-06-01,0.93,0.525,1.648,False
+Taro (USD/KG),Bobonaro,SARIMA,2027-07-01,0.846,0.47,1.523,False
+Taro (USD/KG),Bobonaro,SARIMA,2027-08-01,0.895,0.489,1.637,False
+Taro (USD/KG),Bobonaro,SARIMA,2027-09-01,0.868,0.467,1.612,False
+Taro (USD/KG),Lautem,Holt-Winters,2025-10-01,0.817,0.485,1.377,False
+Taro (USD/KG),Lautem,Holt-Winters,2025-11-01,0.867,0.43,1.749,False
+Taro (USD/KG),Lautem,Holt-Winters,2025-12-01,0.884,0.38,2.054,False
+Taro (USD/KG),Lautem,Holt-Winters,2026-01-01,0.869,0.331,2.282,False
+Taro (USD/KG),Lautem,Holt-Winters,2026-02-01,0.859,0.294,2.513,False
+Taro (USD/KG),Lautem,Holt-Winters,2026-03-01,0.855,0.265,2.758,False
+Taro (USD/KG),Lautem,Holt-Winters,2026-04-01,0.83,0.235,2.931,False
+Taro (USD/KG),Lautem,Holt-Winters,2026-05-01,0.741,0.193,2.848,False
+Taro (USD/KG),Lautem,Holt-Winters,2026-06-01,0.663,0.159,2.757,False
+Taro (USD/KG),Lautem,Holt-Winters,2026-07-01,0.746,0.166,3.342,False
+Taro (USD/KG),Lautem,Holt-Winters,2026-08-01,0.769,0.16,3.704,False
+Taro (USD/KG),Lautem,Holt-Winters,2026-09-01,0.766,0.149,3.949,False
+Taro (USD/KG),Lautem,SARIMA,2025-10-01,0.959,0.569,1.614,False
+Taro (USD/KG),Lautem,SARIMA,2025-11-01,0.91,0.452,1.835,False
+Taro (USD/KG),Lautem,SARIMA,2025-12-01,0.83,0.357,1.93,False
+Taro (USD/KG),Lautem,SARIMA,2026-01-01,0.902,0.343,2.367,False
+Taro (USD/KG),Lautem,SARIMA,2026-02-01,0.967,0.331,2.829,False
+Taro (USD/KG),Lautem,SARIMA,2026-03-01,0.917,0.284,2.957,False
+Taro (USD/KG),Lautem,SARIMA,2026-04-01,1.11,0.315,3.92,False
+Taro (USD/KG),Lautem,SARIMA,2026-05-01,0.99,0.258,3.803,False
+Taro (USD/KG),Lautem,SARIMA,2026-06-01,0.998,0.24,4.151,False
+Taro (USD/KG),Lautem,SARIMA,2026-07-01,0.869,0.194,3.894,False
+Taro (USD/KG),Lautem,SARIMA,2026-08-01,0.978,0.203,4.709,False
+Taro (USD/KG),Lautem,SARIMA,2026-09-01,0.599,0.116,3.087,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-01-01,1.019,0.477,2.177,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-02-01,1.029,0.385,2.752,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-03-01,1.089,0.339,3.496,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-04-01,0.877,0.234,3.296,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-05-01,0.883,0.204,3.817,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-06-01,1.025,0.208,5.036,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-07-01,1.107,0.2,6.129,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-08-01,0.859,0.139,5.309,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-09-01,0.982,0.143,6.724,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-10-01,1.024,0.136,7.722,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-11-01,1.219,0.147,10.079,False
+Taro (USD/KG),Liquica,Holt-Winters,2026-12-01,1.32,0.146,11.92,False
+Taro (USD/KG),Liquica,SARIMA,2026-01-01,1.05,0.492,2.244,False
+Taro (USD/KG),Liquica,SARIMA,2026-02-01,1.059,0.396,2.832,False
+Taro (USD/KG),Liquica,SARIMA,2026-03-01,1.119,0.349,3.592,False
+Taro (USD/KG),Liquica,SARIMA,2026-04-01,0.9,0.239,3.379,False
+Taro (USD/KG),Liquica,SARIMA,2026-05-01,0.903,0.209,3.903,False
+Taro (USD/KG),Liquica,SARIMA,2026-06-01,1.045,0.213,5.135,False
+Taro (USD/KG),Liquica,SARIMA,2026-07-01,1.128,0.204,6.24,False
+Taro (USD/KG),Liquica,SARIMA,2026-08-01,0.852,0.138,5.269,False
+Taro (USD/KG),Liquica,SARIMA,2026-09-01,0.978,0.143,6.694,False
+Taro (USD/KG),Liquica,SARIMA,2026-10-01,1.021,0.135,7.701,False
+Taro (USD/KG),Liquica,SARIMA,2026-11-01,1.217,0.147,10.061,False
+Taro (USD/KG),Liquica,SARIMA,2026-12-01,1.318,0.146,11.901,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2025-10-01,1.229,0.83,1.819,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2025-11-01,1.522,1.015,2.283,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2025-12-01,1.662,1.094,2.523,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2026-01-01,1.756,1.142,2.699,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2026-02-01,1.805,1.16,2.808,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2026-03-01,1.516,0.963,2.386,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2026-04-01,1.879,1.18,2.99,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2026-05-01,1.715,1.066,2.76,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2026-06-01,1.611,0.99,2.62,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2026-07-01,1.486,0.904,2.443,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2026-08-01,1.269,0.764,2.108,False
+Tomatoes (local) (USD/KG),Lautem,Holt-Winters,2026-09-01,1.279,0.762,2.145,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2025-10-01,1.21,0.817,1.791,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2025-11-01,1.566,1.044,2.348,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2025-12-01,1.667,1.098,2.531,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2026-01-01,1.754,1.141,2.697,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2026-02-01,1.766,1.135,2.747,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2026-03-01,1.505,0.956,2.368,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2026-04-01,1.971,1.238,3.137,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2026-05-01,1.701,1.057,2.737,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2026-06-01,1.585,0.974,2.578,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2026-07-01,1.45,0.882,2.384,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2026-08-01,1.226,0.738,2.037,False
+Tomatoes (local) (USD/KG),Lautem,SARIMA,2026-09-01,1.297,0.773,2.176,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-01-01,2.739,1.337,5.609,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-02-01,1.833,0.806,4.166,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-03-01,2.311,0.927,5.764,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-04-01,2.361,0.871,6.405,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-05-01,2.515,0.858,7.371,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-06-01,2.66,0.844,8.379,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-07-01,2.395,0.711,8.068,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-08-01,2.448,0.682,8.778,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-09-01,2.335,0.613,8.891,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-10-01,2.729,0.677,11.001,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-11-01,2.406,0.565,10.248,False
+Tomatoes (local) (USD/KG),Liquica,Holt-Winters,2026-12-01,2.706,0.603,12.149,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-01-01,2.767,1.351,5.666,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-02-01,1.862,0.819,4.232,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-03-01,2.36,0.946,5.886,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-04-01,2.424,0.894,6.574,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-05-01,2.594,0.885,7.602,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-06-01,2.798,0.888,8.817,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-07-01,2.439,0.724,8.217,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-08-01,2.51,0.7,9.001,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-09-01,2.41,0.633,9.177,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-10-01,2.835,0.703,11.426,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-11-01,2.514,0.59,10.708,False
+Tomatoes (local) (USD/KG),Liquica,SARIMA,2026-12-01,2.843,0.633,12.767,False
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-03-01,1.264,0.747,2.138,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-04-01,1.752,1.029,2.984,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-05-01,1.712,0.998,2.936,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-06-01,1.563,0.905,2.697,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-07-01,1.345,0.774,2.338,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-08-01,1.211,0.692,2.118,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-09-01,1.09,0.619,1.919,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-10-01,1.067,0.602,1.892,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-11-01,1.071,0.6,1.91,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2026-12-01,1.183,0.659,2.124,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2027-01-01,1.266,0.701,2.286,True
+Tomatoes (local) (USD/KG),Manatuto,Holt-Winters,2027-02-01,1.348,0.741,2.449,True
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-03-01,1.256,0.743,2.125,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-04-01,2.148,1.261,3.658,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-05-01,1.61,0.939,2.76,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-06-01,1.599,0.926,2.76,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-07-01,1.373,0.79,2.386,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-08-01,1.237,0.707,2.163,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-09-01,1.085,0.616,1.91,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-10-01,1.054,0.595,1.869,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-11-01,1.007,0.565,1.796,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2026-12-01,1.134,0.632,2.036,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2027-01-01,1.387,0.768,2.506,False
+Tomatoes (local) (USD/KG),Manatuto,SARIMA,2027-02-01,1.447,0.796,2.631,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2026-10-01,0.999,0.852,1.172,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2026-11-01,0.974,0.83,1.142,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2026-12-01,0.972,0.829,1.141,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2027-01-01,0.976,0.832,1.145,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2027-02-01,0.997,0.85,1.17,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2027-03-01,1.018,0.868,1.195,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2027-04-01,1.006,0.858,1.181,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2027-05-01,1.006,0.858,1.18,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2027-06-01,1.004,0.856,1.178,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2027-07-01,1.064,0.907,1.247,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2027-08-01,0.983,0.838,1.153,False
+Wheat flour (imported) (USD/KG),Bobonaro,Holt-Winters,2027-09-01,0.981,0.836,1.15,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2026-10-01,0.987,0.842,1.158,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2026-11-01,0.964,0.822,1.131,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2026-12-01,0.964,0.822,1.131,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2027-01-01,0.969,0.826,1.136,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2027-02-01,0.989,0.843,1.16,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2027-03-01,1.01,0.861,1.185,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2027-04-01,0.997,0.85,1.17,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2027-05-01,0.996,0.849,1.168,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2027-06-01,0.997,0.85,1.17,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2027-07-01,1.028,0.877,1.206,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2027-08-01,0.956,0.815,1.12,False
+Wheat flour (imported) (USD/KG),Bobonaro,SARIMA,2027-09-01,0.957,0.816,1.122,False
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2025-10-01,1.002,0.93,1.079,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2025-11-01,0.994,0.922,1.072,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2025-12-01,0.992,0.919,1.07,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2026-01-01,0.993,0.919,1.073,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2026-02-01,1.044,0.965,1.129,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2026-03-01,0.995,0.919,1.077,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2026-04-01,0.996,0.918,1.079,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2026-05-01,0.986,0.909,1.07,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2026-06-01,0.983,0.905,1.067,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2026-07-01,0.973,0.895,1.058,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2026-08-01,0.919,0.844,1.0,True
+Wheat flour (imported) (USD/KG),Lautem,Holt-Winters,2026-09-01,0.98,0.9,1.068,True
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2025-10-01,1.035,0.961,1.115,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2025-11-01,1.035,0.959,1.116,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2025-12-01,1.035,0.958,1.117,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2026-01-01,1.035,0.957,1.118,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2026-02-01,1.037,0.959,1.122,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2026-03-01,1.035,0.955,1.12,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2026-04-01,1.035,0.955,1.122,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2026-05-01,1.035,0.954,1.123,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2026-06-01,1.026,0.944,1.114,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2026-07-01,1.036,0.953,1.127,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2026-08-01,1.026,0.943,1.116,False
+Wheat flour (imported) (USD/KG),Lautem,SARIMA,2026-09-01,1.036,0.951,1.129,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-01-01,0.995,0.897,1.102,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-02-01,0.999,0.899,1.109,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-03-01,0.993,0.892,1.105,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-04-01,0.925,0.829,1.031,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-05-01,0.996,0.892,1.113,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-06-01,0.993,0.888,1.111,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-07-01,0.997,0.89,1.117,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-08-01,0.978,0.872,1.098,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-09-01,0.946,0.842,1.064,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-10-01,1.0,0.888,1.126,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-11-01,0.998,0.886,1.126,False
+Wheat flour (imported) (USD/KG),Liquica,Holt-Winters,2026-12-01,0.999,0.884,1.128,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-01-01,1.008,0.909,1.117,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-02-01,1.012,0.911,1.124,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-03-01,1.006,0.904,1.119,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-04-01,0.937,0.84,1.044,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-05-01,1.012,0.906,1.13,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-06-01,1.007,0.9,1.125,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-07-01,1.01,0.902,1.131,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-08-01,0.991,0.883,1.111,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-09-01,0.958,0.852,1.077,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-10-01,1.012,0.899,1.139,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-11-01,1.01,0.896,1.139,False
+Wheat flour (imported) (USD/KG),Liquica,SARIMA,2026-12-01,1.01,0.894,1.141,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2026-04-01,0.894,0.774,1.033,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2026-05-01,0.916,0.788,1.065,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2026-06-01,0.903,0.772,1.055,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2026-07-01,0.925,0.787,1.088,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2026-08-01,0.958,0.811,1.132,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2026-09-01,0.894,0.753,1.063,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2026-10-01,0.907,0.76,1.083,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2026-11-01,0.919,0.766,1.102,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2026-12-01,0.905,0.75,1.091,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2027-01-01,0.944,0.779,1.143,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2027-02-01,0.914,0.751,1.113,False
+Wheat flour (imported) (USD/KG),Manatuto,Holt-Winters,2027-03-01,0.887,0.726,1.084,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2026-04-01,0.892,0.772,1.03,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2026-05-01,0.923,0.794,1.073,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2026-06-01,0.88,0.753,1.028,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2026-07-01,0.907,0.772,1.066,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2026-08-01,0.943,0.798,1.114,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2026-09-01,0.883,0.743,1.049,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2026-10-01,0.897,0.751,1.071,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2026-11-01,0.909,0.758,1.091,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2026-12-01,0.895,0.743,1.079,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2027-01-01,0.933,0.771,1.131,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2027-02-01,0.904,0.743,1.1,False
+Wheat flour (imported) (USD/KG),Manatuto,SARIMA,2027-03-01,0.876,0.716,1.07,False

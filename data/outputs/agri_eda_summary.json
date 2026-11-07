@@ -1,0 +1,344 @@
+{
+  "price_trend_real": {
+    "Beans (kidney) (USD/KG)": {
+      "tau": -0.467,
+      "p_value": 0.0726,
+      "sen_slope_per_year": -0.1862,
+      "trend": "no significant trend"
+    },
+    "Cassava (USD/KG)": {
+      "tau": -0.333,
+      "p_value": 1.0,
+      "sen_slope_per_year": -0.0666,
+      "trend": "no significant trend"
+    },
+    "Chili (USD/KG)": {
+      "tau": 0.143,
+      "p_value": 0.7726,
+      "sen_slope_per_year": 0.1064,
+      "trend": "no significant trend"
+    },
+    "Eggs (USD/UNIT)": {
+      "tau": -0.619,
+      "p_value": 0.069,
+      "sen_slope_per_year": -0.0049,
+      "trend": "no significant trend"
+    },
+    "Eggs (imported) (USD/KG)": {
+      "tau": NaN,
+      "p_value": NaN,
+      "sen_slope_per_year": NaN,
+      "trend": "no significant trend"
+    },
+    "Eggs (imported) (USD/UNIT)": {
+      "tau": -0.4,
+      "p_value": 0.4833,
+      "sen_slope_per_year": -0.0133,
+      "trend": "no significant trend"
+    },
+    "Fuel (diesel) (USD/L)": {
+      "tau": 0.205,
+      "p_value": 0.3674,
+      "sen_slope_per_year": 0.0311,
+      "trend": "no significant trend"
+    },
+    "Fuel (kerosene) (USD/L)": {
+      "tau": 1.0,
+      "p_value": 1.0,
+      "sen_slope_per_year": 0.272,
+      "trend": "no significant trend"
+    },
+    "Fuel (petrol-gasoline) (USD/L)": {
+      "tau": -0.205,
+      "p_value": 0.3674,
+      "sen_slope_per_year": -0.0115,
+      "trend": "no significant trend"
+    },
+    "Maize (USD/KG)": {
+      "tau": 0.0,
+      "p_value": 1.0,
+      "sen_slope_per_year": 0.0021,
+      "trend": "no significant trend"
+    },
+    "Maize flour (imported) (USD/G)": {
+      "tau": -0.316,
+      "p_value": 0.4485,
+      "sen_slope_per_year": -0.0002,
+      "trend": "no significant trend"
+    },
+    "Meat (chicken) (USD/KG)": {
+      "tau": -0.429,
+      "p_value": 0.2389,
+      "sen_slope_per_year": -0.0321,
+      "trend": "no significant trend"
+    },
+    "Meat (chicken, imported) (USD/KG)": {
+      "tau": -0.2,
+      "p_value": 0.7194,
+      "sen_slope_per_year": -0.1755,
+      "trend": "no significant trend"
+    },
+    "Oil (vegetable, imported) (USD/L)": {
+      "tau": -0.048,
+      "p_value": 1.0,
+      "sen_slope_per_year": -0.0122,
+      "trend": "no significant trend"
+    },
+    "Onions (USD/KG)": {
+      "tau": -0.524,
+      "p_value": 0.1361,
+      "sen_slope_per_year": -0.0896,
+      "trend": "no significant trend"
+    },
+    "Potatoes (USD/KG)": {
+      "tau": 0.143,
+      "p_value": 0.7726,
+      "sen_slope_per_year": 0.0118,
+      "trend": "no significant trend"
+    },
+    "Rice (white, imported) (USD/KG)": {
+      "tau": -0.295,
+      "p_value": 0.1395,
+      "sen_slope_per_year": -0.0367,
+      "trend": "no significant trend"
+    },
+    "Rice (white, local) (USD/KG)": {
+      "tau": -0.015,
+      "p_value": 0.9677,
+      "sen_slope_per_year": -0.0012,
+      "trend": "no significant trend"
+    },
+    "Salt (USD/KG)": {
+      "tau": -0.714,
+      "p_value": 0.0302,
+      "sen_slope_per_year": -0.0331,
+      "trend": "decreasing"
+    },
+    "Soybeans (USD/KG)": {
+      "tau": 1.0,
+      "p_value": 1.0,
+      "sen_slope_per_year": 0.1969,
+      "trend": "no significant trend"
+    },
+    "Sugar (USD/KG)": {
+      "tau": -0.333,
+      "p_value": 0.3813,
+      "sen_slope_per_year": -0.0189,
+      "trend": "no significant trend"
+    },
+    "Sweet potatoes (USD/KG)": {
+      "tau": -0.286,
+      "p_value": 0.3988,
+      "sen_slope_per_year": -0.0106,
+      "trend": "no significant trend"
+    },
+    "Taro (USD/KG)": {
+      "tau": 0.048,
+      "p_value": 1.0,
+      "sen_slope_per_year": 0.0042,
+      "trend": "no significant trend"
+    },
+    "Tomatoes (local) (USD/KG)": {
+      "tau": 0.238,
+      "p_value": 0.5619,
+      "sen_slope_per_year": 0.009,
+      "trend": "no significant trend"
+    },
+    "Wheat flour (imported) (USD/KG)": {
+      "tau": -0.81,
+      "p_value": 0.0107,
+      "sen_slope_per_year": -0.0405,
+      "trend": "decreasing"
+    }
+  },
+  "seasonal_peak_month": {
+    "Beans (kidney) (USD/KG)": "Mar",
+    "Cassava (USD/KG)": "Jan",
+    "Chili (USD/KG)": "Jul",
+    "Eggs (USD/UNIT)": "Abr",
+    "Eggs (imported) (USD/UNIT)": "Jan",
+    "Fuel (diesel) (USD/L)": "Out",
+    "Fuel (petrol-gasoline) (USD/L)": "Jun",
+    "Maize (USD/KG)": "Nov",
+    "Maize flour (imported) (USD/G)": "Jan",
+    "Meat (chicken) (USD/KG)": "Mai",
+    "Meat (chicken, imported) (USD/KG)": "Out",
+    "Oil (vegetable, imported) (USD/L)": "Jun",
+    "Onions (USD/KG)": "Jul",
+    "Potatoes (USD/KG)": "Jul",
+    "Rice (white, imported) (USD/KG)": "Feb",
+    "Rice (white, local) (USD/KG)": "Dez",
+    "Salt (USD/KG)": "Mar",
+    "Soybeans (USD/KG)": "Set",
+    "Sugar (USD/KG)": "Feb",
+    "Sweet potatoes (USD/KG)": "Mar",
+    "Taro (USD/KG)": "Dez",
+    "Tomatoes (local) (USD/KG)": "Mai",
+    "Wheat flour (imported) (USD/KG)": "Nov"
+  },
+  "seasonal_amplitude_pct": {
+    "Beans (kidney) (USD/KG)": 12.3,
+    "Cassava (USD/KG)": 60.6,
+    "Chili (USD/KG)": 25.1,
+    "Eggs (USD/UNIT)": 7.7,
+    "Eggs (imported) (USD/KG)": NaN,
+    "Eggs (imported) (USD/UNIT)": 13.1,
+    "Fuel (diesel) (USD/L)": 13.5,
+    "Fuel (kerosene) (USD/L)": NaN,
+    "Fuel (petrol-gasoline) (USD/L)": 5.9,
+    "Maize (USD/KG)": 14.4,
+    "Maize flour (imported) (USD/G)": 21.4,
+    "Meat (chicken) (USD/KG)": 3.3,
+    "Meat (chicken, imported) (USD/KG)": 7.0,
+    "Oil (vegetable, imported) (USD/L)": 12.6,
+    "Onions (USD/KG)": 17.3,
+    "Potatoes (USD/KG)": 14.6,
+    "Rice (white, imported) (USD/KG)": 5.6,
+    "Rice (white, local) (USD/KG)": 10.2,
+    "Salt (USD/KG)": 11.8,
+    "Soybeans (USD/KG)": 26.8,
+    "Sugar (USD/KG)": 13.2,
+    "Sweet potatoes (USD/KG)": 16.4,
+    "Taro (USD/KG)": 18.4,
+    "Tomatoes (local) (USD/KG)": 36.3,
+    "Wheat flour (imported) (USD/KG)": 4.4
+  },
+  "price_by_market_series": "Oil (vegetable, imported) (USD/L)",
+  "cheapest_market": "Bobonaro",
+  "most_expensive_market": "Manatuto",
+  "market_price_gap_pct": 47.9,
+  "zone_price_ratio_highland_vs_lowland": {
+    "Beans (kidney) (USD/KG)": 1.319,
+    "Chili (USD/KG)": 1.997,
+    "Eggs (USD/UNIT)": 0.965,
+    "Fuel (diesel) (USD/L)": NaN,
+    "Fuel (petrol-gasoline) (USD/L)": NaN,
+    "Maize (USD/KG)": 0.524,
+    "Meat (chicken) (USD/KG)": 0.92,
+    "Oil (vegetable, imported) (USD/L)": 0.939,
+    "Onions (USD/KG)": 1.401,
+    "Potatoes (USD/KG)": 1.242,
+    "Rice (white, imported) (USD/KG)": 0.888,
+    "Rice (white, local) (USD/KG)": 0.694,
+    "Salt (USD/KG)": 0.79,
+    "Sugar (USD/KG)": 0.883,
+    "Sweet potatoes (USD/KG)": 1.075,
+    "Taro (USD/KG)": 0.7,
+    "Tomatoes (local) (USD/KG)": 1.318,
+    "Wheat flour (imported) (USD/KG)": 1.043
+  },
+  "monthly_volatility_pct": {
+    "Eggs (imported) (USD/KG)": 2.3,
+    "Fuel (petrol-gasoline) (USD/L)": 3.97,
+    "Meat (chicken) (USD/KG)": 4.62,
+    "Wheat flour (imported) (USD/KG)": 4.91,
+    "Meat (chicken, imported) (USD/KG)": 5.11,
+    "Oil (vegetable, imported) (USD/L)": 6.42,
+    "Eggs (USD/UNIT)": 6.63,
+    "Rice (white, imported) (USD/KG)": 6.69,
+    "Fuel (diesel) (USD/L)": 7.04,
+    "Salt (USD/KG)": 7.51,
+    "Sugar (USD/KG)": 9.72,
+    "Soybeans (USD/KG)": 12.52,
+    "Eggs (imported) (USD/UNIT)": 12.53,
+    "Maize flour (imported) (USD/G)": 13.55,
+    "Sweet potatoes (USD/KG)": 14.74,
+    "Potatoes (USD/KG)": 14.85,
+    "Taro (USD/KG)": 14.99,
+    "Rice (white, local) (USD/KG)": 15.83,
+    "Onions (USD/KG)": 16.12,
+    "Tomatoes (local) (USD/KG)": 17.98,
+    "Beans (kidney) (USD/KG)": 19.4,
+    "Maize (USD/KG)": 19.95,
+    "Cassava (USD/KG)": 21.56,
+    "Chili (USD/KG)": 27.73,
+    "Fuel (kerosene) (USD/L)": 33.43
+  },
+  "production_trend": {
+    "Cassava": {
+      "tau": -0.722,
+      "p_value": 0.0,
+      "sen_slope_per_year": -1336.2712,
+      "trend": "decreasing"
+    },
+    "Coffee": {
+      "tau": -0.061,
+      "p_value": 0.609,
+      "sen_slope_per_year": -34.6271,
+      "trend": "no significant trend"
+    },
+    "Maize": {
+      "tau": -0.123,
+      "p_value": 0.2999,
+      "sen_slope_per_year": -401.0556,
+      "trend": "no significant trend"
+    },
+    "Rice": {
+      "tau": 0.281,
+      "p_value": 0.0177,
+      "sen_slope_per_year": 651.8182,
+      "trend": "increasing"
+    },
+    "Sweet potatoes": {
+      "tau": -0.519,
+      "p_value": 0.0,
+      "sen_slope_per_year": -416.375,
+      "trend": "decreasing"
+    }
+  },
+  "corr_highlights": {
+    "price_Maize": {
+      "wet_season_rain_mm": -0.43,
+      "wet_season_dry_days": -0.03,
+      "prod_Maize": 0.11,
+      "prod_Rice": -0.35,
+      "price_Maize flour (imported)": 0.45,
+      "price_Rice (white, imported)": 0.74,
+      "price_Rice (white, local)": 0.95
+    },
+    "price_Maize flour (imported)": {
+      "wet_season_rain_mm": -0.32,
+      "wet_season_dry_days": 0.43,
+      "prod_Maize": 0.31,
+      "prod_Rice": 0.33,
+      "price_Maize": 0.45,
+      "price_Rice (white, imported)": -0.61,
+      "price_Rice (white, local)": 0.26
+    },
+    "price_Rice (white, imported)": {
+      "wet_season_rain_mm": -0.14,
+      "wet_season_dry_days": -0.08,
+      "prod_Maize": 0.29,
+      "prod_Rice": 0.01,
+      "price_Maize": 0.74,
+      "price_Maize flour (imported)": -0.61,
+      "price_Rice (white, local)": 0.8
+    },
+    "price_Rice (white, local)": {
+      "wet_season_rain_mm": -0.37,
+      "wet_season_dry_days": -0.05,
+      "prod_Maize": 0.16,
+      "prod_Rice": -0.37,
+      "price_Maize": 0.95,
+      "price_Maize flour (imported)": 0.26,
+      "price_Rice (white, imported)": 0.8
+    }
+  },
+  "top_municipality_by_crop": [
+    {
+      "crop": "Coffee",
+      "municipality": "Ermera",
+      "share_pct": 52.6
+    },
+    {
+      "crop": "Maize",
+      "municipality": "Baucau",
+      "share_pct": 12.4
+    },
+    {
+      "crop": "Rice",
+      "municipality": "Bobonaro",
+      "share_pct": 23.0
+    }
+  ]
+}

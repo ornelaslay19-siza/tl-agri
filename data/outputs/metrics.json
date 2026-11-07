@@ -1,0 +1,563 @@
+{
+  "time_series_overall": [
+    {
+      "variable": "rain_mm",
+      "model": "Climatology",
+      "MAE": 52.07,
+      "RMSE": 71.65,
+      "R2": 0.557,
+      "sMAPE_%": 42.347
+    },
+    {
+      "variable": "rain_mm",
+      "model": "Random Forest (lag)",
+      "MAE": 50.953,
+      "RMSE": 66.189,
+      "R2": 0.615,
+      "sMAPE_%": 46.439
+    },
+    {
+      "variable": "rain_mm",
+      "model": "Ridge (lag)",
+      "MAE": 43.801,
+      "RMSE": 60.182,
+      "R2": 0.679,
+      "sMAPE_%": 42.957
+    },
+    {
+      "variable": "rain_mm",
+      "model": "SARIMA",
+      "MAE": 50.382,
+      "RMSE": 70.366,
+      "R2": 0.572,
+      "sMAPE_%": 40.621
+    },
+    {
+      "variable": "rain_mm",
+      "model": "Seasonal naive",
+      "MAE": 62.294,
+      "RMSE": 85.398,
+      "R2": 0.336,
+      "sMAPE_%": 47.295
+    },
+    {
+      "variable": "tmean_c",
+      "model": "Climatology",
+      "MAE": 0.594,
+      "RMSE": 0.664,
+      "R2": 0.422,
+      "sMAPE_%": 2.516
+    },
+    {
+      "variable": "tmean_c",
+      "model": "SARIMA",
+      "MAE": 0.406,
+      "RMSE": 0.475,
+      "R2": 0.708,
+      "sMAPE_%": 1.684
+    },
+    {
+      "variable": "tmean_c",
+      "model": "Seasonal naive",
+      "MAE": 0.389,
+      "RMSE": 0.477,
+      "R2": 0.674,
+      "sMAPE_%": 1.598
+    }
+  ],
+  "sarima_orders": {
+    "rain_mm|Aileu": {
+      "order": [
+        2,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 909.0
+    },
+    "rain_mm|Ainaro": {
+      "order": [
+        2,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 930.37
+    },
+    "rain_mm|Atauro": {
+      "order": [
+        2,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 926.22
+    },
+    "rain_mm|Baucau": {
+      "order": [
+        2,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 888.55
+    },
+    "rain_mm|Bobonaro": {
+      "order": [
+        2,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 885.97
+    },
+    "rain_mm|Covalima": {
+      "order": [
+        2,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 912.17
+    },
+    "rain_mm|Dili": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 941.13
+    },
+    "rain_mm|Ermera": {
+      "order": [
+        2,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 907.21
+    },
+    "rain_mm|Lautem": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 851.98
+    },
+    "rain_mm|Liquica": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 860.77
+    },
+    "rain_mm|Manatuto": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 952.39
+    },
+    "rain_mm|Manufahi": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 880.39
+    },
+    "rain_mm|Oecusse": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 929.23
+    },
+    "rain_mm|Viqueque": {
+      "order": [
+        2,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 856.39
+    },
+    "tmean_c|Aileu": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 432.31
+    },
+    "tmean_c|Ainaro": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 461.84
+    },
+    "tmean_c|Atauro": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 253.98
+    },
+    "tmean_c|Baucau": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 397.59
+    },
+    "tmean_c|Bobonaro": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 450.57
+    },
+    "tmean_c|Covalima": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 409.1
+    },
+    "tmean_c|Dili": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 336.95
+    },
+    "tmean_c|Ermera": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 333.45
+    },
+    "tmean_c|Lautem": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 358.79
+    },
+    "tmean_c|Liquica": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 210.22
+    },
+    "tmean_c|Manatuto": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 471.22
+    },
+    "tmean_c|Manufahi": {
+      "order": [
+        1,
+        0,
+        1
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 436.99
+    },
+    "tmean_c|Oecusse": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 321.06
+    },
+    "tmean_c|Viqueque": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        0,
+        1,
+        1,
+        12
+      ],
+      "aic": 377.29
+    }
+  },
+  "lag_regression_importance": {
+    "Random Forest (lag)": {
+      "month_sin": 0.0426,
+      "month_cos": 0.0506,
+      "lag12": 0.0513,
+      "lag24": 0.0425,
+      "lag36": 0.0466,
+      "same_month_mean_3y": 0.6729,
+      "rolling12_lag12": 0.0582,
+      "lat": 0.014,
+      "lon": 0.0163,
+      "is_highland": 0.0052
+    }
+  },
+  "yield_regression": {
+    "n_years": 29,
+    "years": [
+      1996,
+      2024
+    ],
+    "cv": "Leave-One-Out",
+    "metrics": {
+      "Baseline (mean)": {
+        "MAE": 437.328,
+        "RMSE": 502.895,
+        "R2": -0.073,
+        "sMAPE_%": 22.14
+      },
+      "Linear Regression": {
+        "MAE": 430.506,
+        "RMSE": 498.042,
+        "R2": -0.052,
+        "sMAPE_%": 23.38
+      },
+      "Ridge Regression": {
+        "MAE": 422.244,
+        "RMSE": 478.64,
+        "R2": 0.028,
+        "sMAPE_%": 21.95
+      },
+      "Random Forest": {
+        "MAE": 276.263,
+        "RMSE": 358.174,
+        "R2": 0.456,
+        "sMAPE_%": 14.27
+      }
+    },
+    "best_model": "Random Forest",
+    "interpretation": {
+      "ridge_standardized_coef": {
+        "wet_season_rain_mm": -57.75,
+        "wet_season_dry_days": -9.64,
+        "mean_temp_c": 114.89,
+        "max_temp_c": -140.83,
+        "heavy_rain_days": -165.2,
+        "year": 332.35
+      },
+      "rf_importance": {
+        "wet_season_rain_mm": 0.081,
+        "wet_season_dry_days": 0.033,
+        "mean_temp_c": 0.026,
+        "max_temp_c": 0.016,
+        "heavy_rain_days": 0.098,
+        "year": 0.745
+      }
+    },
+    "feature_ranges": {
+      "wet_season_rain_mm": [
+        910.521,
+        1667.129,
+        1120.743
+      ],
+      "wet_season_dry_days": [
+        10.857,
+        45.286,
+        31.929
+      ],
+      "mean_temp_c": [
+        24.324,
+        25.806,
+        24.975
+      ],
+      "max_temp_c": [
+        27.814,
+        29.321,
+        28.482
+      ],
+      "heavy_rain_days": [
+        0.0,
+        4.0,
+        0.5
+      ],
+      "year": [
+        1996.0,
+        2024.0,
+        2010.0
+      ]
+    }
+  },
+  "test_months": 12,
+  "forecast_horizon": 12
+}

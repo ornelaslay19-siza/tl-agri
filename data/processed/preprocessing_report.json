@@ -1,0 +1,36 @@
+{
+  "weather_rows_raw": 162540,
+  "duplicates_removed": 0,
+  "invalid_values_set_to_nan": {
+    "temperature_2m_max": 0,
+    "temperature_2m_min": 0,
+    "temperature_2m_mean": 0,
+    "precipitation_sum": 0,
+    "relative_humidity_2m_mean": 0,
+    "et0_fao_evapotranspiration": 0,
+    "shortwave_radiation_sum": 0
+  },
+  "missing_before": {
+    "temperature_2m_max": 0,
+    "temperature_2m_min": 0,
+    "temperature_2m_mean": 0,
+    "precipitation_sum": 0,
+    "relative_humidity_2m_mean": 0,
+    "et0_fao_evapotranspiration": 0,
+    "shortwave_radiation_sum": 0
+  },
+  "missing_after": {
+    "temperature_2m_max": 0,
+    "temperature_2m_min": 0,
+    "temperature_2m_mean": 0,
+    "precipitation_sum": 0,
+    "relative_humidity_2m_mean": 0,
+    "et0_fao_evapotranspiration": 0,
+    "shortwave_radiation_sum": 0
+  },
+  "daily_rows_clean": 162540,
+  "monthly_rows": 5334,
+  "annual_rows": 30,
+  "annual_rows_with_yield": 29,
+  "news_rows": 122
+}

@@ -1,0 +1,70 @@
+series,model,MAE,RMSE,R2,sMAPE_%
+Beans (kidney) (USD/KG),Naive (lag1),0.625,0.718,-0.334,23.99
+Cassava (USD/KG),Naive (lag1),0.111,0.135,-0.319,16.19
+Chili (USD/KG),Naive (lag1),1.412,1.58,-1.347,37.49
+Eggs (USD/UNIT),Naive (lag1),0.003,0.005,0.688,1.35
+Eggs (imported) (USD/UNIT),Naive (lag1),0.013,0.024,0.538,8.01
+Fuel (diesel) (USD/L),Naive (lag1),0.042,0.095,0.619,3.05
+Fuel (petrol-gasoline) (USD/L),Naive (lag1),0.075,0.11,0.511,5.39
+Maize (USD/KG),Naive (lag1),0.131,0.191,-0.054,8.71
+Maize flour (imported) (USD/G),Naive (lag1),0.0,0.001,0.39,6.61
+Meat (chicken) (USD/KG),Naive (lag1),0.172,0.208,-0.093,4.82
+"Meat (chicken, imported) (USD/KG)",Naive (lag1),0.109,0.261,0.324,2.75
+"Oil (vegetable, imported) (USD/L)",Naive (lag1),0.035,0.047,0.14,2.46
+Onions (USD/KG),Naive (lag1),0.645,0.718,-1.17,26.61
+Potatoes (USD/KG),Naive (lag1),0.272,0.339,-0.565,16.31
+"Rice (white, imported) (USD/KG)",Naive (lag1),0.025,0.032,0.135,4.26
+"Rice (white, local) (USD/KG)",Naive (lag1),0.155,0.175,0.217,9.55
+Salt (USD/KG),Naive (lag1),0.053,0.096,-0.215,8.67
+Soybeans (USD/KG),Naive (lag1),0.119,0.185,-1.428,7.41
+Sugar (USD/KG),Naive (lag1),0.058,0.08,-0.084,5.34
+Sweet potatoes (USD/KG),Naive (lag1),0.143,0.196,-1.343,12.4
+Taro (USD/KG),Naive (lag1),0.076,0.09,-0.609,7.6
+Tomatoes (local) (USD/KG),Naive (lag1),0.336,0.403,-0.939,17.67
+Wheat flour (imported) (USD/KG),Naive (lag1),0.048,0.075,-1.392,5.15
+Beans (kidney) (USD/KG),Ridge,0.535,0.644,-0.074,20.24
+Cassava (USD/KG),Ridge,0.109,0.142,-0.453,14.91
+Chili (USD/KG),Ridge,1.101,1.305,-0.601,28.97
+Eggs (USD/UNIT),Ridge,0.005,0.006,0.606,2.71
+Eggs (imported) (USD/UNIT),Ridge,0.018,0.025,0.48,10.48
+Fuel (diesel) (USD/L),Ridge,0.072,0.11,0.489,5.18
+Fuel (petrol-gasoline) (USD/L),Ridge,0.077,0.108,0.525,5.67
+Maize (USD/KG),Ridge,0.132,0.184,0.021,8.8
+Maize flour (imported) (USD/G),Ridge,0.0,0.001,0.299,10.87
+Meat (chicken) (USD/KG),Ridge,0.162,0.189,0.101,4.48
+"Meat (chicken, imported) (USD/KG)",Ridge,0.193,0.283,0.2,4.74
+"Oil (vegetable, imported) (USD/L)",Ridge,0.041,0.056,-0.241,2.86
+Onions (USD/KG),Ridge,0.504,0.592,-0.474,20.5
+Potatoes (USD/KG),Ridge,0.237,0.289,-0.135,14.58
+"Rice (white, imported) (USD/KG)",Ridge,0.046,0.051,-1.236,7.3
+"Rice (white, local) (USD/KG)",Ridge,0.137,0.174,0.227,8.28
+Salt (USD/KG),Ridge,0.061,0.091,-0.087,10.33
+Soybeans (USD/KG),Ridge,0.109,0.155,-0.701,7.0
+Sugar (USD/KG),Ridge,0.069,0.086,-0.258,6.41
+Sweet potatoes (USD/KG),Ridge,0.136,0.168,-0.734,12.08
+Taro (USD/KG),Ridge,0.067,0.083,-0.365,6.83
+Tomatoes (local) (USD/KG),Ridge,0.326,0.361,-0.559,16.99
+Wheat flour (imported) (USD/KG),Ridge,0.046,0.064,-0.746,4.8
+Beans (kidney) (USD/KG),Random Forest,0.568,0.713,-0.315,22.22
+Cassava (USD/KG),Random Forest,0.123,0.16,-0.859,17.0
+Chili (USD/KG),Random Forest,1.013,1.28,-0.541,26.84
+Eggs (USD/UNIT),Random Forest,0.003,0.004,0.839,1.35
+Eggs (imported) (USD/UNIT),Random Forest,0.025,0.03,0.249,14.2
+Fuel (diesel) (USD/L),Random Forest,0.057,0.101,0.564,4.13
+Fuel (petrol-gasoline) (USD/L),Random Forest,0.074,0.114,0.468,5.41
+Maize (USD/KG),Random Forest,0.128,0.18,0.062,8.54
+Maize flour (imported) (USD/G),Random Forest,0.001,0.001,-1.892,25.05
+Meat (chicken) (USD/KG),Random Forest,0.165,0.19,0.091,4.56
+"Meat (chicken, imported) (USD/KG)",Random Forest,0.214,0.31,0.043,5.23
+"Oil (vegetable, imported) (USD/L)",Random Forest,0.026,0.042,0.305,1.87
+Onions (USD/KG),Random Forest,0.531,0.602,-0.523,22.0
+Potatoes (USD/KG),Random Forest,0.251,0.312,-0.321,15.22
+"Rice (white, imported) (USD/KG)",Random Forest,0.021,0.025,0.449,3.52
+"Rice (white, local) (USD/KG)",Random Forest,0.14,0.182,0.156,8.43
+Salt (USD/KG),Random Forest,0.06,0.087,-0.011,10.53
+Soybeans (USD/KG),Random Forest,0.128,0.18,-1.297,8.27
+Sugar (USD/KG),Random Forest,0.067,0.088,-0.309,6.25
+Sweet potatoes (USD/KG),Random Forest,0.137,0.171,-0.784,12.24
+Taro (USD/KG),Random Forest,0.057,0.075,-0.133,5.78
+Tomatoes (local) (USD/KG),Random Forest,0.348,0.388,-0.798,18.31
+Wheat flour (imported) (USD/KG),Random Forest,0.049,0.063,-0.711,5.13

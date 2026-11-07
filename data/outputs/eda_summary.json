@@ -1,0 +1,86 @@
+{
+  "overall_stats": {
+    "rain_mm": {
+      "count": 5334.0,
+      "mean": 134.18,
+      "std": 129.9,
+      "min": 0.0,
+      "25%": 18.9,
+      "50%": 94.3,
+      "75%": 224.38,
+      "max": 744.3
+    },
+    "tmean_c": {
+      "count": 5334.0,
+      "mean": 24.91,
+      "std": 2.0,
+      "min": 18.45,
+      "25%": 23.41,
+      "50%": 24.93,
+      "75%": 26.59,
+      "max": 30.02
+    },
+    "tmax_c": {
+      "count": 5334.0,
+      "mean": 28.48,
+      "std": 2.3,
+      "min": 21.89,
+      "25%": 26.68,
+      "50%": 28.59,
+      "75%": 30.11,
+      "max": 35.85
+    },
+    "tmin_c": {
+      "count": 5334.0,
+      "mean": 22.07,
+      "std": 2.18,
+      "min": 14.91,
+      "25%": 20.73,
+      "50%": 22.18,
+      "75%": 23.88,
+      "max": 26.35
+    },
+    "rh_pct": {
+      "count": 5334.0,
+      "mean": 79.99,
+      "std": 7.66,
+      "min": 45.23,
+      "25%": 74.48,
+      "50%": 81.61,
+      "75%": 86.39,
+      "max": 92.55
+    }
+  },
+  "rain_skewness": 0.915,
+  "wettest_month": 1,
+  "driest_month": 8,
+  "trend_annual_rain": {
+    "tau": 0.088,
+    "p_value": 0.4998,
+    "sen_slope_per_year": 4.8097,
+    "trend": "no significant trend"
+  },
+  "trend_annual_temp": {
+    "tau": -0.144,
+    "p_value": 0.2644,
+    "sen_slope_per_year": -0.0066,
+    "trend": "no significant trend"
+  },
+  "wettest_municipality": "Ermera",
+  "driest_municipality": "Liquica",
+  "corr_with_yield": {
+    "cereal_land_ha": -0.55,
+    "agri_employment_pct": -0.48,
+    "wet_season_rain_mm": -0.26,
+    "dry_days": -0.13,
+    "heavy_rain_days": -0.11,
+    "annual_rain_mm": -0.02,
+    "crop_production_index": 0.06,
+    "wet_season_dry_days": 0.09,
+    "mean_temp_c": 0.13,
+    "gdd": 0.13,
+    "max_temp_c": 0.16,
+    "cereal_production_t": 0.42,
+    "agri_land_pct": 0.59
+  }
+}

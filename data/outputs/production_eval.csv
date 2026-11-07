@@ -1,0 +1,26 @@
+crop,model,validation,MAE,RMSE,R2,sMAPE_%
+Cassava,Naive,hold-out 3 tinan,430.977,530.193,-0.697,2.42
+Cassava,Linear trend,hold-out 3 tinan,1579.247,1873.455,-20.188,9.46
+Cassava,Holt (damped),hold-out 3 tinan,733.348,733.758,-2.25,4.14
+Cassava,Ridge regression (klima),LOOCV,5344.06,8233.925,0.607,14.68
+Cassava,Baseline (mean),LOOCV,11538.384,13596.521,-0.073,34.23
+Coffee,Naive,hold-out 3 tinan,3070.223,3210.912,-10.667,26.42
+Coffee,Linear trend,hold-out 3 tinan,2237.061,2398.233,-5.509,24.08
+Coffee,Holt (damped),hold-out 3 tinan,4278.454,4714.682,-24.154,34.47
+Coffee,Ridge regression (klima),LOOCV,3202.049,3700.32,-0.087,35.18
+Coffee,Baseline (mean),LOOCV,3111.243,3675.135,-0.073,33.54
+Maize,Naive,hold-out 3 tinan,24608.667,25751.544,-10.522,35.47
+Maize,Linear trend,hold-out 3 tinan,6999.451,10216.165,-0.813,8.75
+Maize,Holt (damped),hold-out 3 tinan,9313.81,12011.998,-1.507,11.35
+Maize,Ridge regression (klima),LOOCV,21366.623,27793.643,-0.324,23.72
+Maize,Baseline (mean),LOOCV,19431.876,25017.212,-0.073,21.73
+Rice,Naive,hold-out 3 tinan,31378.333,33100.685,-8.866,50.14
+Rice,Linear trend,hold-out 3 tinan,9917.949,11356.67,-0.161,13.27
+Rice,Holt (damped),hold-out 3 tinan,31046.334,32722.262,-8.642,49.47
+Rice,Ridge regression (klima),LOOCV,20779.706,26653.606,-0.237,30.11
+Rice,Baseline (mean),LOOCV,20232.646,24816.417,-0.073,30.13
+Sweet potatoes,Naive,hold-out 3 tinan,187.443,250.813,-1.265,3.9
+Sweet potatoes,Linear trend,hold-out 3 tinan,1625.396,1686.85,-101.457,28.88
+Sweet potatoes,Holt (damped),hold-out 3 tinan,198.224,257.358,-1.385,4.11
+Sweet potatoes,Ridge regression (klima),LOOCV,4491.015,5678.797,0.449,34.33
+Sweet potatoes,Baseline (mean),LOOCV,6848.981,7925.787,-0.073,56.04

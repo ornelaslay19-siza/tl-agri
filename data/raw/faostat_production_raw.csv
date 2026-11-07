@@ -1,0 +1,526 @@
+crop,year,element,value
+Cassava,1990,area_harvested_ha,8409
+Cassava,1990,yield_kg_ha,4218.1
+Cassava,1990,production_t,35470
+Cassava,1991,area_harvested_ha,13007
+Cassava,1991,yield_kg_ha,3778
+Cassava,1991,production_t,49141
+Cassava,1992,area_harvested_ha,12940
+Cassava,1992,yield_kg_ha,3979.9
+Cassava,1992,production_t,51500
+Cassava,1993,area_harvested_ha,12940
+Cassava,1993,yield_kg_ha,5409.6
+Cassava,1993,production_t,70000
+Cassava,1994,area_harvested_ha,19102
+Cassava,1994,yield_kg_ha,3889.6
+Cassava,1994,production_t,74300
+Cassava,1995,area_harvested_ha,18994
+Cassava,1995,yield_kg_ha,3980.2
+Cassava,1995,production_t,75600
+Cassava,1996,area_harvested_ha,13593
+Cassava,1996,yield_kg_ha,3956.5
+Cassava,1996,production_t,53781
+Cassava,1997,area_harvested_ha,10319
+Cassava,1997,yield_kg_ha,4010
+Cassava,1997,production_t,41379
+Cassava,1998,area_harvested_ha,7996
+Cassava,1998,yield_kg_ha,4013.5
+Cassava,1998,production_t,32092
+Cassava,1999,area_harvested_ha,10319
+Cassava,1999,yield_kg_ha,6444.4
+Cassava,1999,production_t,66500
+Cassava,2000,area_harvested_ha,10500
+Cassava,2000,yield_kg_ha,4761.9
+Cassava,2000,production_t,50000
+Cassava,2001,area_harvested_ha,12000
+Cassava,2001,yield_kg_ha,4004.7
+Cassava,2001,production_t,48056
+Cassava,2002,area_harvested_ha,14000
+Cassava,2002,yield_kg_ha,3571.4
+Cassava,2002,production_t,50000
+Cassava,2003,area_harvested_ha,10000
+Cassava,2003,yield_kg_ha,4152.5
+Cassava,2003,production_t,41525
+Cassava,2004,area_harvested_ha,15000
+Cassava,2004,yield_kg_ha,3921.7
+Cassava,2004,production_t,58826
+Cassava,2005,area_harvested_ha,10000
+Cassava,2005,yield_kg_ha,3929
+Cassava,2005,production_t,39290
+Cassava,2006,area_harvested_ha,9717
+Cassava,2006,yield_kg_ha,4043.2
+Cassava,2006,production_t,39290
+Cassava,2007,area_harvested_ha,10274
+Cassava,2007,yield_kg_ha,4011.3
+Cassava,2007,production_t,41212
+Cassava,2008,area_harvested_ha,10006
+Cassava,2008,yield_kg_ha,3551.1
+Cassava,2008,production_t,35532
+Cassava,2009,area_harvested_ha,10757
+Cassava,2009,yield_kg_ha,3467.7
+Cassava,2009,production_t,37302
+Cassava,2010,area_harvested_ha,6120
+Cassava,2010,yield_kg_ha,4551.8
+Cassava,2010,production_t,27857
+Cassava,2011,area_harvested_ha,5784
+Cassava,2011,yield_kg_ha,3837.7
+Cassava,2011,production_t,22197
+Cassava,2012,area_harvested_ha,6221
+Cassava,2012,yield_kg_ha,3934.6
+Cassava,2012,production_t,24477.47
+Cassava,2013,area_harvested_ha,7532
+Cassava,2013,yield_kg_ha,3991
+Cassava,2013,production_t,30059.04
+Cassava,2014,area_harvested_ha,7189
+Cassava,2014,yield_kg_ha,3978
+Cassava,2014,production_t,28599.83
+Cassava,2015,area_harvested_ha,6623
+Cassava,2015,yield_kg_ha,3974.2
+Cassava,2015,production_t,26322.33
+Cassava,2016,area_harvested_ha,7115
+Cassava,2016,yield_kg_ha,3981.4
+Cassava,2016,production_t,28327.07
+Cassava,2017,area_harvested_ha,6638
+Cassava,2017,yield_kg_ha,3786.9
+Cassava,2017,production_t,25137.45
+Cassava,2018,area_harvested_ha,6075
+Cassava,2018,yield_kg_ha,3747.8
+Cassava,2018,production_t,22767.34
+Cassava,2019,area_harvested_ha,6027
+Cassava,2019,yield_kg_ha,3638
+Cassava,2019,production_t,21927.68
+Cassava,2020,area_harvested_ha,5744
+Cassava,2020,yield_kg_ha,3586.3
+Cassava,2020,production_t,20599.84
+Cassava,2021,area_harvested_ha,6200
+Cassava,2021,yield_kg_ha,2824.2
+Cassava,2021,production_t,17510
+Cassava,2022,area_harvested_ha,5175
+Cassava,2022,yield_kg_ha,3441.5
+Cassava,2022,production_t,17808.54
+Cassava,2023,area_harvested_ha,5108
+Cassava,2023,yield_kg_ha,3595.5
+Cassava,2023,production_t,18367.6
+Cassava,2024,area_harvested_ha,4850
+Cassava,2024,yield_kg_ha,3582.1
+Cassava,2024,production_t,17373.21
+Coffee,1990,area_harvested_ha,53000
+Coffee,1990,yield_kg_ha,162.8
+Coffee,1990,production_t,8631
+Coffee,1991,area_harvested_ha,55000
+Coffee,1991,yield_kg_ha,155.2
+Coffee,1991,production_t,8538.26
+Coffee,1992,area_harvested_ha,55316
+Coffee,1992,yield_kg_ha,139.8
+Coffee,1992,production_t,7734
+Coffee,1993,area_harvested_ha,55300
+Coffee,1993,yield_kg_ha,144.7
+Coffee,1993,production_t,8000
+Coffee,1994,area_harvested_ha,55000
+Coffee,1994,yield_kg_ha,163.6
+Coffee,1994,production_t,9000
+Coffee,1995,area_harvested_ha,58401
+Coffee,1995,yield_kg_ha,171.2
+Coffee,1995,production_t,10000
+Coffee,1996,area_harvested_ha,56000
+Coffee,1996,yield_kg_ha,196.2
+Coffee,1996,production_t,10987
+Coffee,1997,area_harvested_ha,63533
+Coffee,1997,yield_kg_ha,153
+Coffee,1997,production_t,9723
+Coffee,1998,area_harvested_ha,64000
+Coffee,1998,yield_kg_ha,171.9
+Coffee,1998,production_t,11000
+Coffee,1999,area_harvested_ha,65000
+Coffee,1999,yield_kg_ha,184.6
+Coffee,1999,production_t,12000
+Coffee,2000,area_harvested_ha,60000
+Coffee,2000,yield_kg_ha,216.7
+Coffee,2000,production_t,13000
+Coffee,2001,area_harvested_ha,63000
+Coffee,2001,yield_kg_ha,224.3
+Coffee,2001,production_t,14134
+Coffee,2002,area_harvested_ha,67345
+Coffee,2002,yield_kg_ha,207.9
+Coffee,2002,production_t,14000
+Coffee,2003,area_harvested_ha,60000
+Coffee,2003,yield_kg_ha,200
+Coffee,2003,production_t,12000
+Coffee,2004,area_harvested_ha,65000
+Coffee,2004,yield_kg_ha,223.1
+Coffee,2004,production_t,14500
+Coffee,2005,area_harvested_ha,65000
+Coffee,2005,yield_kg_ha,223.1
+Coffee,2005,production_t,14500
+Coffee,2006,area_harvested_ha,65000
+Coffee,2006,yield_kg_ha,215.4
+Coffee,2006,production_t,14000
+Coffee,2007,area_harvested_ha,65000
+Coffee,2007,yield_kg_ha,215.4
+Coffee,2007,production_t,14000
+Coffee,2008,area_harvested_ha,52182
+Coffee,2008,yield_kg_ha,268.5
+Coffee,2008,production_t,14009
+Coffee,2009,area_harvested_ha,53816
+Coffee,2009,yield_kg_ha,188.1
+Coffee,2009,production_t,10122
+Coffee,2010,area_harvested_ha,53832
+Coffee,2010,yield_kg_ha,235
+Coffee,2010,production_t,12653
+Coffee,2011,area_harvested_ha,54341
+Coffee,2011,yield_kg_ha,153.1
+Coffee,2011,production_t,8320
+Coffee,2012,area_harvested_ha,14732
+Coffee,2012,yield_kg_ha,248.4
+Coffee,2012,production_t,3660
+Coffee,2013,area_harvested_ha,17048
+Coffee,2013,yield_kg_ha,281.6
+Coffee,2013,production_t,4800
+Coffee,2014,area_harvested_ha,23872
+Coffee,2014,yield_kg_ha,279
+Coffee,2014,production_t,6660
+Coffee,2015,area_harvested_ha,32196
+Coffee,2015,yield_kg_ha,110
+Coffee,2015,production_t,3540
+Coffee,2016,area_harvested_ha,23569
+Coffee,2016,yield_kg_ha,208.7
+Coffee,2016,production_t,4920
+Coffee,2017,area_harvested_ha,14808
+Coffee,2017,yield_kg_ha,263.4
+Coffee,2017,production_t,3900
+Coffee,2018,area_harvested_ha,27651
+Coffee,2018,yield_kg_ha,301.6
+Coffee,2018,production_t,8340
+Coffee,2019,area_harvested_ha,18032
+Coffee,2019,yield_kg_ha,342.7
+Coffee,2019,production_t,6180
+Coffee,2020,area_harvested_ha,23486
+Coffee,2020,yield_kg_ha,387
+Coffee,2020,production_t,9088.23
+Coffee,2021,area_harvested_ha,22627
+Coffee,2021,yield_kg_ha,588.4
+Coffee,2021,production_t,13313.98
+Coffee,2022,area_harvested_ha,22764
+Coffee,2022,yield_kg_ha,508.3
+Coffee,2022,production_t,11571.53
+Coffee,2023,area_harvested_ha,24191
+Coffee,2023,yield_kg_ha,398.4
+Coffee,2023,production_t,9637.22
+Coffee,2024,area_harvested_ha,22478
+Coffee,2024,yield_kg_ha,423.6
+Coffee,2024,production_t,9522.52
+Maize,1990,area_harvested_ha,64853
+Maize,1990,yield_kg_ha,1327.5
+Maize,1990,production_t,86090
+Maize,1991,area_harvested_ha,65422
+Maize,1991,yield_kg_ha,1392.1
+Maize,1991,production_t,91076
+Maize,1992,area_harvested_ha,58370
+Maize,1992,yield_kg_ha,1409.5
+Maize,1992,production_t,82275
+Maize,1993,area_harvested_ha,58068
+Maize,1993,yield_kg_ha,1800
+Maize,1993,production_t,104523
+Maize,1994,area_harvested_ha,62020
+Maize,1994,yield_kg_ha,1882.3
+Maize,1994,production_t,116739
+Maize,1995,area_harvested_ha,56138
+Maize,1995,yield_kg_ha,1835.5
+Maize,1995,production_t,103039
+Maize,1996,area_harvested_ha,58114
+Maize,1996,yield_kg_ha,1834.6
+Maize,1996,production_t,106616
+Maize,1997,area_harvested_ha,62777
+Maize,1997,yield_kg_ha,1577
+Maize,1997,production_t,99000
+Maize,1998,area_harvested_ha,31894
+Maize,1998,yield_kg_ha,1847.7
+Maize,1998,production_t,58931
+Maize,1999,area_harvested_ha,54188
+Maize,1999,yield_kg_ha,1300.1
+Maize,1999,production_t,70450
+Maize,2000,area_harvested_ha,55000
+Maize,2000,yield_kg_ha,1608.2
+Maize,2000,production_t,88449
+Maize,2001,area_harvested_ha,56764
+Maize,2001,yield_kg_ha,1215.6
+Maize,2001,production_t,69000
+Maize,2002,area_harvested_ha,53396
+Maize,2002,yield_kg_ha,1755.1
+Maize,2002,production_t,93714
+Maize,2003,area_harvested_ha,50400
+Maize,2003,yield_kg_ha,1392.4
+Maize,2003,production_t,70175
+Maize,2004,area_harvested_ha,52000
+Maize,2004,yield_kg_ha,1580.9
+Maize,2004,production_t,82209
+Maize,2005,area_harvested_ha,58000
+Maize,2005,yield_kg_ha,1590
+Maize,2005,production_t,92219
+Maize,2006,area_harvested_ha,71000
+Maize,2006,yield_kg_ha,1675.8
+Maize,2006,production_t,118984
+Maize,2007,area_harvested_ha,63400
+Maize,2007,yield_kg_ha,1128.2
+Maize,2007,production_t,71526
+Maize,2008,area_harvested_ha,79433
+Maize,2008,yield_kg_ha,1261.1
+Maize,2008,production_t,100173
+Maize,2009,area_harvested_ha,71340
+Maize,2009,yield_kg_ha,1888.4
+Maize,2009,production_t,134715
+Maize,2010,area_harvested_ha,70255
+Maize,2010,yield_kg_ha,2119.3
+Maize,2010,production_t,148890.78
+Maize,2011,area_harvested_ha,21699
+Maize,2011,yield_kg_ha,2294.3
+Maize,2011,production_t,49783
+Maize,2012,area_harvested_ha,45202
+Maize,2012,yield_kg_ha,1390.2
+Maize,2012,production_t,62839
+Maize,2013,area_harvested_ha,42820
+Maize,2013,yield_kg_ha,2353.8
+Maize,2013,production_t,100789
+Maize,2014,area_harvested_ha,36961
+Maize,2014,yield_kg_ha,2772.5
+Maize,2014,production_t,102473
+Maize,2015,area_harvested_ha,59390
+Maize,2015,yield_kg_ha,2397
+Maize,2015,production_t,142361
+Maize,2016,area_harvested_ha,41719
+Maize,2016,yield_kg_ha,2314.6
+Maize,2016,production_t,96565.16
+Maize,2017,area_harvested_ha,34574
+Maize,2017,yield_kg_ha,2169.3
+Maize,2017,production_t,75000
+Maize,2018,area_harvested_ha,40202
+Maize,2018,yield_kg_ha,2144.5
+Maize,2018,production_t,86213.78
+Maize,2019,area_harvested_ha,30136
+Maize,2019,yield_kg_ha,2511.6
+Maize,2019,production_t,75690
+Maize,2020,area_harvested_ha,29081
+Maize,2020,yield_kg_ha,2668.6
+Maize,2020,production_t,77606
+Maize,2021,area_harvested_ha,57666
+Maize,2021,yield_kg_ha,972.1
+Maize,2021,production_t,56058
+Maize,2022,area_harvested_ha,51296
+Maize,2022,yield_kg_ha,1696
+Maize,2022,production_t,87000
+Maize,2023,area_harvested_ha,40954
+Maize,2023,yield_kg_ha,2075.5
+Maize,2023,production_t,85000
+Maize,2024,area_harvested_ha,33919
+Maize,2024,yield_kg_ha,2063.7
+Maize,2024,production_t,70000
+Rice,1990,area_harvested_ha,17706
+Rice,1990,yield_kg_ha,2636.1
+Rice,1990,production_t,46675
+Rice,1991,area_harvested_ha,25495
+Rice,1991,yield_kg_ha,2623.7
+Rice,1991,production_t,66890
+Rice,1992,area_harvested_ha,19381
+Rice,1992,yield_kg_ha,2716.9
+Rice,1992,production_t,52657
+Rice,1993,area_harvested_ha,18856
+Rice,1993,yield_kg_ha,2745.3
+Rice,1993,production_t,51766
+Rice,1994,area_harvested_ha,16096
+Rice,1994,yield_kg_ha,2575.9
+Rice,1994,production_t,41461
+Rice,1995,area_harvested_ha,18084
+Rice,1995,yield_kg_ha,2582.2
+Rice,1995,production_t,46696
+Rice,1996,area_harvested_ha,19684
+Rice,1996,yield_kg_ha,2672.6
+Rice,1996,production_t,52607
+Rice,1997,area_harvested_ha,14198
+Rice,1997,yield_kg_ha,2674.2
+Rice,1997,production_t,37968
+Rice,1998,area_harvested_ha,13826
+Rice,1998,yield_kg_ha,2665.1
+Rice,1998,production_t,36848
+Rice,1999,area_harvested_ha,12679
+Rice,1999,yield_kg_ha,2648.9
+Rice,1999,production_t,33585
+Rice,2000,area_harvested_ha,17000
+Rice,2000,yield_kg_ha,3000
+Rice,2000,production_t,51000
+Rice,2001,area_harvested_ha,35000
+Rice,2001,yield_kg_ha,1538.4
+Rice,2001,production_t,53845
+Rice,2002,area_harvested_ha,35000
+Rice,2002,yield_kg_ha,1533
+Rice,2002,production_t,53656
+Rice,2003,area_harvested_ha,43550
+Rice,2003,yield_kg_ha,1502.5
+Rice,2003,production_t,65433
+Rice,2004,area_harvested_ha,23000
+Rice,2004,yield_kg_ha,1521.5
+Rice,2004,production_t,34994
+Rice,2005,area_harvested_ha,40000
+Rice,2005,yield_kg_ha,1472.2
+Rice,2005,production_t,58887
+Rice,2006,area_harvested_ha,45000
+Rice,2006,yield_kg_ha,1231.3
+Rice,2006,production_t,55410
+Rice,2007,area_harvested_ha,40000
+Rice,2007,yield_kg_ha,1510.5
+Rice,2007,production_t,60420
+Rice,2008,area_harvested_ha,45635
+Rice,2008,yield_kg_ha,1758.7
+Rice,2008,production_t,80257
+Rice,2009,area_harvested_ha,38998
+Rice,2009,yield_kg_ha,3097
+Rice,2009,production_t,120775
+Rice,2010,area_harvested_ha,36548
+Rice,2010,yield_kg_ha,3089.8
+Rice,2010,production_t,112925.4
+Rice,2011,area_harvested_ha,35561
+Rice,2011,yield_kg_ha,2764.2
+Rice,2011,production_t,98297
+Rice,2012,area_harvested_ha,41884
+Rice,2012,yield_kg_ha,2845.1
+Rice,2012,production_t,119166
+Rice,2013,area_harvested_ha,27998
+Rice,2013,yield_kg_ha,3119.2
+Rice,2013,production_t,87332
+Rice,2014,area_harvested_ha,28482
+Rice,2014,yield_kg_ha,3118.6
+Rice,2014,production_t,88824
+Rice,2015,area_harvested_ha,23017
+Rice,2015,yield_kg_ha,3108.2
+Rice,2015,production_t,71541
+Rice,2016,area_harvested_ha,19251
+Rice,2016,yield_kg_ha,3116.8
+Rice,2016,production_t,60000
+Rice,2017,area_harvested_ha,22959
+Rice,2017,yield_kg_ha,2705.5
+Rice,2017,production_t,62114.64
+Rice,2018,area_harvested_ha,17000
+Rice,2018,yield_kg_ha,3352.9
+Rice,2018,production_t,57000
+Rice,2019,area_harvested_ha,22328
+Rice,2019,yield_kg_ha,2141.8
+Rice,2019,production_t,47822
+Rice,2020,area_harvested_ha,18912
+Rice,2020,yield_kg_ha,2643
+Rice,2020,production_t,49983
+Rice,2021,area_harvested_ha,26792
+Rice,2021,yield_kg_ha,1696.6
+Rice,2021,production_t,45455
+Rice,2022,area_harvested_ha,39405
+Rice,2022,yield_kg_ha,2169.8
+Rice,2022,production_t,85500
+Rice,2023,area_harvested_ha,38253
+Rice,2023,yield_kg_ha,2169.8
+Rice,2023,production_t,83000
+Rice,2024,area_harvested_ha,28574
+Rice,2024,yield_kg_ha,2169.8
+Rice,2024,production_t,62000
+Sweet potatoes,1990,area_harvested_ha,2022
+Sweet potatoes,1990,yield_kg_ha,3572.7
+Sweet potatoes,1990,production_t,7224
+Sweet potatoes,1991,area_harvested_ha,2863
+Sweet potatoes,1991,yield_kg_ha,3311.2
+Sweet potatoes,1991,production_t,9480
+Sweet potatoes,1992,area_harvested_ha,3113
+Sweet potatoes,1992,yield_kg_ha,3717
+Sweet potatoes,1992,production_t,11571
+Sweet potatoes,1993,area_harvested_ha,4052
+Sweet potatoes,1993,yield_kg_ha,4713.7
+Sweet potatoes,1993,production_t,19100
+Sweet potatoes,1994,area_harvested_ha,5197
+Sweet potatoes,1994,yield_kg_ha,3463.5
+Sweet potatoes,1994,production_t,18000
+Sweet potatoes,1995,area_harvested_ha,4635
+Sweet potatoes,1995,yield_kg_ha,3926.6
+Sweet potatoes,1995,production_t,18200
+Sweet potatoes,1996,area_harvested_ha,4066
+Sweet potatoes,1996,yield_kg_ha,3856.6
+Sweet potatoes,1996,production_t,15681
+Sweet potatoes,1997,area_harvested_ha,4271
+Sweet potatoes,1997,yield_kg_ha,4132.1
+Sweet potatoes,1997,production_t,17648
+Sweet potatoes,1998,area_harvested_ha,3052
+Sweet potatoes,1998,yield_kg_ha,3928.2
+Sweet potatoes,1998,production_t,11989
+Sweet potatoes,1999,area_harvested_ha,3500
+Sweet potatoes,1999,yield_kg_ha,4000
+Sweet potatoes,1999,production_t,14000
+Sweet potatoes,2000,area_harvested_ha,5000
+Sweet potatoes,2000,yield_kg_ha,4000
+Sweet potatoes,2000,production_t,20000
+Sweet potatoes,2001,area_harvested_ha,6000
+Sweet potatoes,2001,yield_kg_ha,4117.5
+Sweet potatoes,2001,production_t,24705
+Sweet potatoes,2002,area_harvested_ha,7000
+Sweet potatoes,2002,yield_kg_ha,3714.3
+Sweet potatoes,2002,production_t,26000
+Sweet potatoes,2003,area_harvested_ha,6788
+Sweet potatoes,2003,yield_kg_ha,3786.1
+Sweet potatoes,2003,production_t,25697.98
+Sweet potatoes,2004,area_harvested_ha,6900
+Sweet potatoes,2004,yield_kg_ha,3826.1
+Sweet potatoes,2004,production_t,26400
+Sweet potatoes,2005,area_harvested_ha,6900
+Sweet potatoes,2005,yield_kg_ha,3898.6
+Sweet potatoes,2005,production_t,26900
+Sweet potatoes,2006,area_harvested_ha,5000
+Sweet potatoes,2006,yield_kg_ha,4180
+Sweet potatoes,2006,production_t,20900
+Sweet potatoes,2007,area_harvested_ha,4000
+Sweet potatoes,2007,yield_kg_ha,3725
+Sweet potatoes,2007,production_t,14900
+Sweet potatoes,2008,area_harvested_ha,3567
+Sweet potatoes,2008,yield_kg_ha,2510.2
+Sweet potatoes,2008,production_t,8954
+Sweet potatoes,2009,area_harvested_ha,4807
+Sweet potatoes,2009,yield_kg_ha,2660.7
+Sweet potatoes,2009,production_t,12790
+Sweet potatoes,2010,area_harvested_ha,4082
+Sweet potatoes,2010,yield_kg_ha,2347.9
+Sweet potatoes,2010,production_t,9584
+Sweet potatoes,2011,area_harvested_ha,3229
+Sweet potatoes,2011,yield_kg_ha,2987.6
+Sweet potatoes,2011,production_t,9647
+Sweet potatoes,2012,area_harvested_ha,3140
+Sweet potatoes,2012,yield_kg_ha,2872.8
+Sweet potatoes,2012,production_t,9020.94
+Sweet potatoes,2013,area_harvested_ha,2719
+Sweet potatoes,2013,yield_kg_ha,2625.2
+Sweet potatoes,2013,production_t,7138.35
+Sweet potatoes,2014,area_harvested_ha,2362
+Sweet potatoes,2014,yield_kg_ha,2499.3
+Sweet potatoes,2014,production_t,5904.29
+Sweet potatoes,2015,area_harvested_ha,2038
+Sweet potatoes,2015,yield_kg_ha,2498.9
+Sweet potatoes,2015,production_t,5092.59
+Sweet potatoes,2016,area_harvested_ha,2373
+Sweet potatoes,2016,yield_kg_ha,2547.3
+Sweet potatoes,2016,production_t,6045.08
+Sweet potatoes,2017,area_harvested_ha,2360
+Sweet potatoes,2017,yield_kg_ha,2583
+Sweet potatoes,2017,production_t,6096.3
+Sweet potatoes,2018,area_harvested_ha,2296
+Sweet potatoes,2018,yield_kg_ha,2589.6
+Sweet potatoes,2018,production_t,5946.39
+Sweet potatoes,2019,area_harvested_ha,2285
+Sweet potatoes,2019,yield_kg_ha,2528.2
+Sweet potatoes,2019,production_t,5777
+Sweet potatoes,2020,area_harvested_ha,2255
+Sweet potatoes,2020,yield_kg_ha,2522.4
+Sweet potatoes,2020,production_t,5688
+Sweet potatoes,2021,area_harvested_ha,1750
+Sweet potatoes,2021,yield_kg_ha,2845.7
+Sweet potatoes,2021,production_t,4980
+Sweet potatoes,2022,area_harvested_ha,1718
+Sweet potatoes,2022,yield_kg_ha,2662.1
+Sweet potatoes,2022,production_t,4574.06
+Sweet potatoes,2023,area_harvested_ha,1989
+Sweet potatoes,2023,yield_kg_ha,2503.3
+Sweet potatoes,2023,production_t,4978.31
+Sweet potatoes,2024,area_harvested_ha,1927
+Sweet potatoes,2024,yield_kg_ha,2504.1
+Sweet potatoes,2024,production_t,4825.3

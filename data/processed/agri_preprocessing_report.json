@@ -1,0 +1,20 @@
+{
+  "price_rows_raw": 12169,
+  "price_duplicates_merged": 0,
+  "price_outliers_removed": 112,
+  "price_rows_clean": 12057,
+  "price_series": 25,
+  "markets": 24,
+  "price_period": [
+    "2008-04-01",
+    "2026-09-01"
+  ],
+  "production_rows": 175,
+  "crops": [
+    "Cassava",
+    "Coffee",
+    "Maize",
+    "Rice",
+    "Sweet potatoes"
+  ]
+}

@@ -1,0 +1,9 @@
+variable,model,MAE,RMSE,R2,sMAPE_%
+rain_mm,Climatology,52.07,71.65,0.557,42.347
+rain_mm,Random Forest (lag),50.953,66.189,0.615,46.439
+rain_mm,Ridge (lag),43.801,60.182,0.679,42.957
+rain_mm,SARIMA,50.382,70.366,0.572,40.621
+rain_mm,Seasonal naive,62.294,85.398,0.336,47.295
+tmean_c,Climatology,0.594,0.664,0.422,2.516
+tmean_c,SARIMA,0.406,0.475,0.708,1.684
+tmean_c,Seasonal naive,0.389,0.477,0.674,1.598

@@ -1,0 +1,61 @@
+crop,year,model,forecast,lower_95,upper_95
+Cassava,2025,Regression — Normál,15241.0,,
+Cassava,2026,Regression — Normál,13943.0,,
+Cassava,2027,Regression — Normál,12645.0,,
+Cassava,2025,Regression — Maran (El Niño),15523.0,,
+Cassava,2026,Regression — Maran (El Niño),14225.0,,
+Cassava,2027,Regression — Maran (El Niño),12927.0,,
+Cassava,2025,Regression — Udan barak (La Niña),14269.0,,
+Cassava,2026,Regression — Udan barak (La Niña),12971.0,,
+Cassava,2027,Regression — Udan barak (La Niña),11673.0,,
+Cassava,2025,Holt (damped),16025.0,0.0,35687.0
+Cassava,2026,Holt (damped),15104.0,0.0,42910.0
+Cassava,2027,Holt (damped),14188.0,0.0,48244.0
+Coffee,2025,Regression — Normál,7444.0,,
+Coffee,2026,Regression — Normál,7255.0,,
+Coffee,2027,Regression — Normál,7066.0,,
+Coffee,2025,Regression — Maran (El Niño),7308.0,,
+Coffee,2026,Regression — Maran (El Niño),7119.0,,
+Coffee,2027,Regression — Maran (El Niño),6930.0,,
+Coffee,2025,Regression — Udan barak (La Niña),7742.0,,
+Coffee,2026,Regression — Udan barak (La Niña),7553.0,,
+Coffee,2027,Regression — Udan barak (La Niña),7364.0,,
+Coffee,2025,Holt (damped),9642.0,5571.0,13713.0
+Coffee,2026,Holt (damped),9645.0,3887.0,15402.0
+Coffee,2027,Holt (damped),9647.0,2596.0,16698.0
+Maize,2025,Regression — Normál,84991.0,,
+Maize,2026,Regression — Normál,84870.0,,
+Maize,2027,Regression — Normál,84748.0,,
+Maize,2025,Regression — Maran (El Niño),85606.0,,
+Maize,2026,Regression — Maran (El Niño),85484.0,,
+Maize,2027,Regression — Maran (El Niño),85363.0,,
+Maize,2025,Regression — Udan barak (La Niña),83594.0,,
+Maize,2026,Regression — Udan barak (La Niña),83473.0,,
+Maize,2027,Regression — Udan barak (La Niña),83351.0,,
+Maize,2025,Holt (damped),82197.0,37653.0,126740.0
+Maize,2026,Holt (damped),81708.0,18714.0,144701.0
+Maize,2027,Holt (damped),81222.0,4071.0,158373.0
+Rice,2025,Regression — Normál,78296.0,,
+Rice,2026,Regression — Normál,79286.0,,
+Rice,2027,Regression — Normál,80276.0,,
+Rice,2025,Regression — Maran (El Niño),76971.0,,
+Rice,2026,Regression — Maran (El Niño),77961.0,,
+Rice,2027,Regression — Maran (El Niño),78951.0,,
+Rice,2025,Regression — Udan barak (La Niña),83300.0,,
+Rice,2026,Regression — Udan barak (La Niña),84290.0,,
+Rice,2027,Regression — Udan barak (La Niña),85280.0,,
+Rice,2025,Holt (damped),66870.0,35406.0,98333.0
+Rice,2026,Holt (damped),67089.0,22593.0,111586.0
+Rice,2027,Holt (damped),67307.0,12810.0,121804.0
+Sweet potatoes,2025,Regression — Normál,2590.0,,
+Sweet potatoes,2026,Regression — Normál,1888.0,,
+Sweet potatoes,2027,Regression — Normál,1187.0,,
+Sweet potatoes,2025,Regression — Maran (El Niño),3482.0,,
+Sweet potatoes,2026,Regression — Maran (El Niño),2780.0,,
+Sweet potatoes,2027,Regression — Maran (El Niño),2079.0,,
+Sweet potatoes,2025,Regression — Udan barak (La Niña),112.0,,
+Sweet potatoes,2026,Regression — Udan barak (La Niña),-590.0,,
+Sweet potatoes,2027,Regression — Udan barak (La Niña),-1292.0,,
+Sweet potatoes,2025,Holt (damped),4829.0,0.0,10790.0
+Sweet potatoes,2026,Holt (damped),4833.0,0.0,13262.0
+Sweet potatoes,2027,Holt (damped),4836.0,0.0,15160.0

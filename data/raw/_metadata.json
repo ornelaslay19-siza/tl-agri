@@ -1,0 +1,29 @@
+{
+  "last_updated_utc": "2026-10-21T05:24:34+00:00",
+  "weather_source": "open-meteo",
+  "status": {
+    "weather": "live",
+    "world_bank": "live",
+    "municipality_info": "skipped-existing",
+    "news": "live",
+    "prices": "live",
+    "production": "live",
+    "cpi": "live",
+    "municipal_production": "skipped-existing"
+  },
+  "rows": {
+    "weather": 162540,
+    "world_bank": 396,
+    "news": 123,
+    "prices": 12169,
+    "production": 525
+  },
+  "period": [
+    "1995-01-01",
+    "2026-10-14"
+  ],
+  "agri_last_updated_utc": "2026-10-21T05:26:07+00:00",
+  "municipality_info": "live",
+  "municipal_production": "live",
+  "source": "FINAL-MAIN-REPORT-TLAC2019.pdf INETL Fig2.4M & Fig3.4"
+}

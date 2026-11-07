@@ -1,0 +1,215 @@
+{
+  "price_ts_national": {
+    "Holt-Winters": {
+      "MAE": 0.2568,
+      "RMSE": 0.3222,
+      "sMAPE_%": 12.5978
+    },
+    "Naive": {
+      "MAE": 0.2852,
+      "RMSE": 0.3423,
+      "sMAPE_%": 13.1944
+    },
+    "SARIMA": {
+      "MAE": 0.2584,
+      "RMSE": 0.3161,
+      "sMAPE_%": 12.4833
+    },
+    "Seasonal naive": {
+      "MAE": 0.2603,
+      "RMSE": 0.3126,
+      "sMAPE_%": 13.7128
+    }
+  },
+  "price_ts_all_series": {
+    "Holt-Winters": {
+      "MAE": 0.2982,
+      "RMSE": 0.3603,
+      "sMAPE_%": 14.1286
+    },
+    "Naive": {
+      "MAE": 0.3156,
+      "RMSE": 0.3683,
+      "sMAPE_%": 14.5497
+    },
+    "SARIMA": {
+      "MAE": 0.4057,
+      "RMSE": 0.4801,
+      "sMAPE_%": 18.6879
+    },
+    "Seasonal naive": {
+      "MAE": 0.3089,
+      "RMSE": 0.3902,
+      "sMAPE_%": 15.5927
+    }
+  },
+  "price_ts_best_model_counts": {
+    "Naive": 37,
+    "Holt-Winters": 16,
+    "Seasonal naive": 12,
+    "SARIMA": 12
+  },
+  "price_regression": {
+    "Naive (lag1)": {
+      "MAE": 0.2025,
+      "RMSE": 0.2506,
+      "sMAPE_%": 10.5126
+    },
+    "Random Forest": {
+      "MAE": 0.182,
+      "RMSE": 0.2303,
+      "sMAPE_%": 10.96
+    },
+    "Ridge": {
+      "MAE": 0.1819,
+      "RMSE": 0.2247,
+      "sMAPE_%": 10.2178
+    }
+  },
+  "price_regression_interpretation": {
+    "ridge_coef": {
+      "lag1": 0.4017,
+      "lag2": 0.3991,
+      "lag3": 0.0443,
+      "lag12": 0.0022,
+      "mom_change": 0.0211,
+      "month_sin": 0.0067,
+      "month_cos": -0.0031,
+      "lean_season": 0.0075,
+      "rain_anom_6m_lag1": -0.0005,
+      "c_Beans (kidney)": 0.0269,
+      "c_Cassava": 0.0,
+      "c_Chili": 0.0376,
+      "c_Eggs": -0.0507,
+      "c_Eggs (imported)": -0.0344,
+      "c_Fuel (diesel)": -0.0005,
+      "c_Fuel (kerosene)": 0.0,
+      "c_Fuel (petrol-gasoline)": 0.0006,
+      "c_Maize": 0.0052,
+      "c_Maize flour (imported)": -0.0924,
+      "c_Meat (chicken)": 0.0285,
+      "c_Meat (chicken, imported)": 0.0212,
+      "c_Oil (vegetable, imported)": 0.0068,
+      "c_Onions": 0.021,
+      "c_Potatoes": 0.0042,
+      "c_Rice (white, imported)": -0.0142,
+      "c_Rice (white, local)": 0.0183,
+      "c_Salt": -0.0208,
+      "c_Soybeans": 0.0,
+      "c_Sugar": 0.0007,
+      "c_Sweet potatoes": -0.0069,
+      "c_Taro": -0.0086,
+      "c_Tomatoes (local)": 0.0111,
+      "c_Wheat flour (imported)": -0.006
+    },
+    "rf_importance": {
+      "lag1": 0.3789,
+      "lag2": 0.104,
+      "lag3": 0.1221,
+      "lag12": 0.3136,
+      "mom_change": 0.0008,
+      "month_sin": 0.0005,
+      "month_cos": 0.0003,
+      "lean_season": 0.0001,
+      "rain_anom_6m_lag1": 0.0008,
+      "c_Beans (kidney)": 0.0001,
+      "c_Cassava": 0.0,
+      "c_Chili": 0.0001,
+      "c_Eggs": 0.0,
+      "c_Eggs (imported)": 0.0,
+      "c_Fuel (diesel)": 0.0,
+      "c_Fuel (kerosene)": 0.0,
+      "c_Fuel (petrol-gasoline)": 0.0,
+      "c_Maize": 0.0001,
+      "c_Maize flour (imported)": 0.0782,
+      "c_Meat (chicken)": 0.0,
+      "c_Meat (chicken, imported)": 0.0,
+      "c_Oil (vegetable, imported)": 0.0,
+      "c_Onions": 0.0,
+      "c_Potatoes": 0.0001,
+      "c_Rice (white, imported)": 0.0,
+      "c_Rice (white, local)": 0.0001,
+      "c_Salt": 0.0,
+      "c_Soybeans": 0.0,
+      "c_Sugar": 0.0,
+      "c_Sweet potatoes": 0.0,
+      "c_Taro": 0.0,
+      "c_Tomatoes (local)": 0.0001,
+      "c_Wheat flour (imported)": 0.0
+    }
+  },
+  "production_eval": [
+    {
+      "model": "Baseline (mean)",
+      "validation": "LOOCV",
+      "MAE": 12232.63,
+      "RMSE": 15006.21,
+      "R2": -0.07,
+      "sMAPE_%": 35.13
+    },
+    {
+      "model": "Holt (damped)",
+      "validation": "hold-out 3 tinan",
+      "MAE": 9114.03,
+      "RMSE": 10088.01,
+      "R2": -7.59,
+      "sMAPE_%": 20.71
+    },
+    {
+      "model": "Linear trend",
+      "validation": "hold-out 3 tinan",
+      "MAE": 4471.82,
+      "RMSE": 5506.27,
+      "R2": -25.63,
+      "sMAPE_%": 16.89
+    },
+    {
+      "model": "Naive",
+      "validation": "hold-out 3 tinan",
+      "MAE": 11935.13,
+      "RMSE": 12568.83,
+      "R2": -6.4,
+      "sMAPE_%": 23.67
+    },
+    {
+      "model": "Ridge regression (klima)",
+      "validation": "LOOCV",
+      "MAE": 11036.69,
+      "RMSE": 14412.06,
+      "R2": 0.08,
+      "sMAPE_%": 27.6
+    }
+  ],
+  "production_ridge_coef": {
+    "Cassava": {
+      "year": -10860.0,
+      "wet_season_rain_mm": -822.9,
+      "wet_season_dry_days": -420.0,
+      "mean_temp_c": -1337.0
+    },
+    "Coffee": {
+      "year": -1581.0,
+      "wet_season_rain_mm": -191.2,
+      "wet_season_dry_days": -368.2,
+      "mean_temp_c": -323.2
+    },
+    "Maize": {
+      "year": -1015.8,
+      "wet_season_rain_mm": 704.9,
+      "wet_season_dry_days": 1510.7,
+      "mean_temp_c": 4602.1
+    },
+    "Rice": {
+      "year": 8285.0,
+      "wet_season_rain_mm": 5363.7,
+      "wet_season_dry_days": 3424.6,
+      "mean_temp_c": 4020.4
+    },
+    "Sweet potatoes": {
+      "year": -5871.0,
+      "wet_season_rain_mm": -538.4,
+      "wet_season_dry_days": 676.2,
+      "mean_temp_c": -781.4
+    }
+  }
+}

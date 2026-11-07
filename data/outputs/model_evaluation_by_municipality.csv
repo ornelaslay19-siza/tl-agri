@@ -1,0 +1,113 @@
+variable,municipality,model,MAE,RMSE,R2,sMAPE_%
+rain_mm,Aileu,SARIMA,58.033,77.618,0.523,47.81
+rain_mm,Aileu,Seasonal naive,67.2,96.152,0.268,54.69
+rain_mm,Aileu,Climatology,46.874,70.742,0.604,38.18
+rain_mm,Ainaro,SARIMA,75.694,98.42,0.142,41.54
+rain_mm,Ainaro,Seasonal naive,112.175,158.326,-1.22,54.02
+rain_mm,Ainaro,Climatology,70.667,91.877,0.252,40.45
+rain_mm,Atauro,SARIMA,11.128,14.395,0.962,27.0
+rain_mm,Atauro,Seasonal naive,23.45,31.47,0.818,44.01
+rain_mm,Atauro,Climatology,21.21,32.686,0.804,30.4
+rain_mm,Baucau,SARIMA,36.624,51.208,0.796,47.32
+rain_mm,Baucau,Seasonal naive,56.692,85.117,0.438,35.71
+rain_mm,Baucau,Climatology,33.671,47.268,0.827,41.45
+rain_mm,Bobonaro,SARIMA,44.403,66.364,0.826,55.31
+rain_mm,Bobonaro,Seasonal naive,70.117,98.952,0.614,54.19
+rain_mm,Bobonaro,Climatology,43.126,58.328,0.866,66.43
+rain_mm,Covalima,SARIMA,63.364,101.777,0.524,36.25
+rain_mm,Covalima,Seasonal naive,98.617,135.182,0.161,55.78
+rain_mm,Covalima,Climatology,65.599,106.285,0.481,36.41
+rain_mm,Dili,SARIMA,48.58,61.727,0.672,41.49
+rain_mm,Dili,Seasonal naive,43.675,55.235,0.737,39.49
+rain_mm,Dili,Climatology,52.694,65.304,0.633,48.3
+rain_mm,Ermera,SARIMA,78.101,107.235,0.281,42.04
+rain_mm,Ermera,Seasonal naive,80.25,115.056,0.172,43.34
+rain_mm,Ermera,Climatology,87.28,112.42,0.21,55.1
+rain_mm,Lautem,SARIMA,42.894,61.831,0.443,37.65
+rain_mm,Lautem,Seasonal naive,59.275,92.243,-0.239,39.18
+rain_mm,Lautem,Climatology,49.177,67.294,0.341,33.45
+rain_mm,Liquica,SARIMA,58.204,78.195,0.567,45.27
+rain_mm,Liquica,Seasonal naive,33.083,48.448,0.834,34.17
+rain_mm,Liquica,Climatology,74.707,102.279,0.259,49.74
+rain_mm,Manatuto,SARIMA,45.458,60.155,0.279,49.21
+rain_mm,Manatuto,Seasonal naive,47.65,61.742,0.241,57.63
+rain_mm,Manatuto,Climatology,42.89,55.838,0.379,49.05
+rain_mm,Manufahi,SARIMA,61.202,77.667,0.62,32.0
+rain_mm,Manufahi,Seasonal naive,66.533,80.038,0.596,40.42
+rain_mm,Manufahi,Climatology,63.025,78.583,0.611,30.2
+rain_mm,Oecusse,SARIMA,34.68,54.107,0.816,36.74
+rain_mm,Oecusse,Seasonal naive,49.275,59.138,0.781,64.29
+rain_mm,Oecusse,Climatology,41.87,59.076,0.781,46.1
+rain_mm,Viqueque,SARIMA,46.98,74.419,0.555,29.07
+rain_mm,Viqueque,Seasonal naive,64.125,78.473,0.505,45.21
+rain_mm,Viqueque,Climatology,36.195,55.113,0.756,27.6
+tmean_c,Aileu,SARIMA,0.498,0.546,0.604,2.32
+tmean_c,Aileu,Seasonal naive,0.411,0.478,0.696,1.91
+tmean_c,Aileu,Climatology,1.095,1.13,-0.697,5.0
+tmean_c,Ainaro,SARIMA,0.568,0.618,0.792,2.72
+tmean_c,Ainaro,Seasonal naive,0.314,0.41,0.909,1.51
+tmean_c,Ainaro,Climatology,1.622,1.663,-0.503,7.5
+tmean_c,Atauro,SARIMA,0.305,0.358,0.712,1.27
+tmean_c,Atauro,Seasonal naive,0.427,0.543,0.335,1.77
+tmean_c,Atauro,Climatology,0.45,0.557,0.301,1.88
+tmean_c,Baucau,SARIMA,0.357,0.42,0.746,1.46
+tmean_c,Baucau,Seasonal naive,0.422,0.533,0.592,1.73
+tmean_c,Baucau,Climatology,0.285,0.354,0.82,1.17
+tmean_c,Bobonaro,SARIMA,0.459,0.546,0.652,1.8
+tmean_c,Bobonaro,Seasonal naive,0.472,0.535,0.666,1.84
+tmean_c,Bobonaro,Climatology,0.513,0.639,0.522,2.0
+tmean_c,Covalima,SARIMA,0.229,0.307,0.935,0.89
+tmean_c,Covalima,Seasonal naive,0.212,0.291,0.942,0.82
+tmean_c,Covalima,Climatology,0.275,0.331,0.925,1.06
+tmean_c,Dili,SARIMA,0.623,0.711,0.185,2.32
+tmean_c,Dili,Seasonal naive,0.396,0.44,0.688,1.48
+tmean_c,Dili,Climatology,0.683,0.75,0.095,2.53
+tmean_c,Ermera,SARIMA,0.436,0.546,0.714,2.0
+tmean_c,Ermera,Seasonal naive,0.511,0.64,0.606,2.34
+tmean_c,Ermera,Climatology,0.828,0.959,0.118,3.74
+tmean_c,Lautem,SARIMA,0.472,0.52,0.794,1.99
+tmean_c,Lautem,Seasonal naive,0.374,0.421,0.866,1.59
+tmean_c,Lautem,Climatology,0.762,0.809,0.502,3.19
+tmean_c,Liquica,SARIMA,0.244,0.296,0.887,0.93
+tmean_c,Liquica,Seasonal naive,0.417,0.533,0.631,1.58
+tmean_c,Liquica,Climatology,0.303,0.35,0.841,1.14
+tmean_c,Manatuto,SARIMA,0.406,0.5,0.567,1.51
+tmean_c,Manatuto,Seasonal naive,0.526,0.662,0.243,1.95
+tmean_c,Manatuto,Climatology,0.462,0.524,0.526,1.71
+tmean_c,Manufahi,SARIMA,0.474,0.532,0.827,2.08
+tmean_c,Manufahi,Seasonal naive,0.327,0.389,0.908,1.45
+tmean_c,Manufahi,Climatology,0.637,0.679,0.719,2.77
+tmean_c,Oecusse,SARIMA,0.336,0.372,0.609,1.24
+tmean_c,Oecusse,Seasonal naive,0.361,0.437,0.463,1.32
+tmean_c,Oecusse,Climatology,0.221,0.265,0.803,0.83
+tmean_c,Viqueque,SARIMA,0.274,0.374,0.895,1.04
+tmean_c,Viqueque,Seasonal naive,0.278,0.369,0.898,1.08
+tmean_c,Viqueque,Climatology,0.18,0.282,0.94,0.7
+rain_mm,Aileu,Ridge (lag),37.837,56.375,0.748,39.93
+rain_mm,Ainaro,Ridge (lag),65.35,88.649,0.304,39.9
+rain_mm,Atauro,Ridge (lag),14.653,18.164,0.939,63.8
+rain_mm,Baucau,Ridge (lag),33.616,44.54,0.846,42.49
+rain_mm,Bobonaro,Ridge (lag),47.89,67.488,0.82,65.85
+rain_mm,Covalima,Ridge (lag),57.655,88.821,0.638,32.63
+rain_mm,Dili,Ridge (lag),39.577,50.864,0.777,38.36
+rain_mm,Ermera,Ridge (lag),68.595,99.321,0.383,33.54
+rain_mm,Lautem,Ridge (lag),47.26,61.911,0.442,37.54
+rain_mm,Liquica,Ridge (lag),28.399,50.146,0.822,36.14
+rain_mm,Manatuto,Ridge (lag),42.256,55.834,0.379,49.43
+rain_mm,Manufahi,Ridge (lag),56.867,62.346,0.755,33.92
+rain_mm,Oecusse,Ridge (lag),36.798,50.868,0.838,58.35
+rain_mm,Viqueque,Ridge (lag),36.459,47.218,0.821,29.52
+rain_mm,Aileu,Random Forest (lag),54.973,71.592,0.594,57.0
+rain_mm,Ainaro,Random Forest (lag),72.922,91.61,0.257,45.52
+rain_mm,Atauro,Random Forest (lag),15.995,20.64,0.922,41.91
+rain_mm,Baucau,Random Forest (lag),41.558,51.155,0.797,55.98
+rain_mm,Bobonaro,Random Forest (lag),52.73,68.462,0.815,75.85
+rain_mm,Covalima,Random Forest (lag),74.354,97.969,0.559,45.08
+rain_mm,Dili,Random Forest (lag),40.995,52.37,0.764,42.25
+rain_mm,Ermera,Random Forest (lag),81.543,104.879,0.312,39.18
+rain_mm,Lautem,Random Forest (lag),57.767,74.332,0.195,39.43
+rain_mm,Liquica,Random Forest (lag),46.037,55.515,0.782,47.3
+rain_mm,Manatuto,Random Forest (lag),41.262,56.052,0.374,37.9
+rain_mm,Manufahi,Random Forest (lag),46.437,63.185,0.748,24.72
+rain_mm,Oecusse,Random Forest (lag),44.535,57.429,0.793,67.82
+rain_mm,Viqueque,Random Forest (lag),42.23,61.455,0.696,30.2
